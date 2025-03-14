@@ -1,0 +1,2551 @@
+disease,symptom
+Flu,fever
+Flu,cough
+Flu,sore throat
+Flu,runny nose
+Flu,chills
+Flu,body aches
+Flu,fatigue
+Flu,headache
+Flu,sneezing
+Flu,congestion
+COVID-19,fever
+COVID-19,cough
+COVID-19,loss of taste or smell
+COVID-19,shortness of breath
+COVID-19,fatigue
+COVID-19,body aches
+COVID-19,chest tightness
+COVID-19,headache
+COVID-19,sore throat
+COVID-19,congestion
+Common Cold,runny nose
+Common Cold,sneezing
+Common Cold,cough
+Common Cold,sore throat
+Common Cold,congestion
+Common Cold,mild fatigue
+Common Cold,watery eyes
+Malaria,fever
+Malaria,chills
+Malaria,sweating
+Malaria,headache
+Malaria,nausea
+Malaria,vomiting
+Malaria,muscle pain
+Malaria,anemia
+Malaria,convulsions
+Malaria,fatigue
+Dengue,high fever
+Dengue,severe headache
+Dengue,joint pain
+Dengue,muscle pain
+Dengue,rash
+Dengue,bleeding gums
+Dengue,nosebleeds
+Dengue,fatigue
+Tuberculosis,persistent cough
+Tuberculosis,fever
+Tuberculosis,night sweats
+Tuberculosis,weight loss
+Tuberculosis,blood in cough
+Tuberculosis,chest pain
+Tuberculosis,fatigue
+HIV/AIDS,fever
+HIV/AIDS,night sweats
+HIV/AIDS,weight loss
+HIV/AIDS,swollen lymph nodes
+HIV/AIDS,chronic diarrhea
+HIV/AIDS,oral thrush
+HIV/AIDS,skin rashes
+HIV/AIDS,fatigue
+Hepatitis B,jaundice
+Hepatitis B,abdominal pain
+Hepatitis B,dark urine
+Hepatitis B,fatigue
+Hepatitis B,nausea
+Hepatitis B,loss of appetite
+Hepatitis B,joint pain
+Lyme Disease,bullseye rash
+Lyme Disease,fever
+Lyme Disease,joint pain
+Lyme Disease,headache
+Lyme Disease,fatigue
+Lyme Disease,muscle aches
+Lyme Disease,swollen lymph nodes
+Cholera,severe diarrhea
+Cholera,vomiting
+Cholera,dehydration
+Cholera,muscle cramps
+Cholera,rapid heart rate
+Cholera,low blood pressure
+Zika Virus,mild fever
+Zika Virus,rash
+Zika Virus,joint pain
+Zika Virus,conjunctivitis
+Zika Virus,muscle pain
+Zika Virus,headache
+Measles,high fever
+Measles,cough
+Measles,runny nose
+Measles,red eyes
+Measles,rash
+Measles,small white spots inside mouth
+Mumps,swollen salivary glands
+Mumps,fever
+Mumps,headache
+Mumps,muscle aches
+Mumps,loss of appetite
+Mumps,fatigue
+Typhoid,prolonged fever
+Typhoid,headache
+Typhoid,abdominal pain
+Typhoid,constipation or diarrhea
+Typhoid,rose-colored spots
+Typhoid,weakness
+Yellow Fever,fever
+Yellow Fever,headache
+Yellow Fever,muscle pain
+Yellow Fever,nausea
+Yellow Fever,vomiting
+Yellow Fever,jaundice
+Ebola,fever
+Ebola,severe headache
+Ebola,muscle pain
+Ebola,weakness
+Ebola,diarrhea
+Ebola,vomiting
+Ebola,unexplained bleeding
+SARS,fever
+SARS,chills
+SARS,body aches
+SARS,dry cough
+SARS,shortness of breath
+SARS,pneumonia
+MERS,fever
+MERS,cough
+MERS,shortness of breath
+MERS,pneumonia
+MERS,kidney failure
+MERS,gastrointestinal symptoms
+Diabetes,increased thirst
+Diabetes,frequent urination
+Diabetes,blurry vision
+Diabetes,slow-healing sores
+Diabetes,fatigue
+Diabetes,weight loss
+Diabetes,numbness in hands/feet
+Heart Disease,chest pain
+Heart Disease,shortness of breath
+Heart Disease,heart palpitations
+Heart Disease,dizziness
+Heart Disease,nausea
+Heart Disease,sweating
+Heart Disease,fatigue
+Asthma,shortness of breath
+Asthma,wheezing
+Asthma,chest tightness
+Asthma,chronic cough
+Asthma,difficulty breathing
+Asthma,fatigue
+Hypertension,headache
+Hypertension,dizziness
+Hypertension,shortness of breath
+Hypertension,nosebleeds
+Hypertension,blurred vision
+Hypertension,chest pain
+Chronic Kidney Disease,fatigue
+Chronic Kidney Disease,swelling in legs
+Chronic Kidney Disease,nausea
+Chronic Kidney Disease,itching
+Chronic Kidney Disease,loss of appetite
+Chronic Kidney Disease,urinary changes
+Chronic Kidney Disease,shortness of breath
+COPD,chronic cough
+COPD,shortness of breath
+COPD,wheezing
+COPD,chest tightness
+COPD,frequent respiratory infections
+COPD,bluish lips
+Rheumatoid Arthritis,joint pain
+Rheumatoid Arthritis,joint swelling
+Rheumatoid Arthritis,morning stiffness
+Rheumatoid Arthritis,fatigue
+Rheumatoid Arthritis,fever
+Rheumatoid Arthritis,weight loss
+Osteoarthritis,joint pain
+Osteoarthritis,stiffness
+Osteoarthritis,tenderness
+Osteoarthritis,loss of flexibility
+Osteoarthritis,bone spurs
+Osteoarthritis,grating sensation
+Fibromyalgia,widespread pain
+Fibromyalgia,fatigue
+Fibromyalgia,sleep disturbances
+Fibromyalgia,cognitive difficulties
+Fibromyalgia,headaches
+Fibromyalgia,irritable bowel syndrome
+Lupus,facial rash
+Lupus,joint pain
+Lupus,fatigue
+Lupus,fever
+Lupus,hair loss
+Lupus,chest pain
+Lupus,sensitivity to sunlight
+Multiple Sclerosis,numbness/weakness in limbs
+Multiple Sclerosis,vision loss
+Multiple Sclerosis,tremors
+Multiple Sclerosis,fatigue
+Multiple Sclerosis,dizziness
+Multiple Sclerosis,electric-shock sensations
+Parkinson’s Disease,tremors
+Parkinson’s Disease,slowed movement
+Parkinson’s Disease,rigid muscles
+Parkinson’s Disease,impaired posture
+Parkinson’s Disease,speech changes
+Parkinson’s Disease,loss of automatic movements
+Alzheimer’s Disease,memory loss
+Alzheimer’s Disease,confusion
+Alzheimer’s Disease,disorientation
+Alzheimer’s Disease,mood swings
+Alzheimer’s Disease,difficulty speaking/writing
+Alzheimer’s Disease,poor judgment
+Epilepsy,seizures
+Epilepsy,temporary confusion
+Epilepsy,staring spells
+Epilepsy,uncontrollable jerking
+Epilepsy,loss of consciousness
+Epilepsy,anxiety
+Migraine,throbbing headache
+Migraine,aura
+Migraine,sensitivity to light/sound
+Migraine,nausea
+Migraine,vomiting
+Migraine,dizziness
+Gout,sudden joint pain
+Gout,swelling
+Gout,redness
+Gout,tenderness
+Gout,limited range of motion
+Gout,lingering discomfort
+Osteoporosis,back pain
+Osteoporosis,loss of height
+Osteoporosis,stooped posture
+Osteoporosis,bone fractures
+Osteoporosis,neck pain
+Psoriasis,red patches
+Psoriasis,silvery scales
+Psoriasis,dry/cracked skin
+Psoriasis,itching
+Psoriasis,burning
+Psoriasis,thickened nails
+Crohn’s Disease,diarrhea
+Crohn’s Disease,abdominal pain
+Crohn’s Disease,fatigue
+Crohn’s Disease,weight loss
+Crohn’s Disease,blood in stool
+Crohn’s Disease,mouth sores
+Ulcerative Colitis,diarrhea
+Ulcerative Colitis,rectal bleeding
+Ulcerative Colitis,abdominal cramps
+Ulcerative Colitis,urgency to defecate
+Ulcerative Colitis,weight loss
+Ulcerative Colitis,fatigue
+Cirrhosis,fatigue
+Cirrhosis,easy bruising/bleeding
+Cirrhosis,jaundice
+Cirrhosis,fluid retention
+Cirrhosis,nausea
+Cirrhosis,loss of appetite
+Endometriosis,pelvic pain
+Endometriosis,painful periods
+Endometriosis,pain during intercourse
+Endometriosis,infertility
+Endometriosis,fatigue
+Endometriosis,bloating
+PCOS,irregular periods
+PCOS,excess hair growth
+PCOS,acne
+PCOS,weight gain
+PCOS,thinning hair
+PCOS,darkening of skin
+Chronic Fatigue Syndrome,severe fatigue
+Chronic Fatigue Syndrome,sleep problems
+Chronic Fatigue Syndrome,joint/muscle pain
+Chronic Fatigue Syndrome,headaches
+Chronic Fatigue Syndrome,sore throat
+Chronic Fatigue Syndrome,memory issues
+Depression,persistent sadness
+Depression,loss of interest
+Depression,fatigue
+Depression,sleep disturbances
+Depression,appetite changes
+Depression,suicidal thoughts
+Anxiety Disorder,excessive worry
+Anxiety Disorder,restlessness
+Anxiety Disorder,fatigue
+Anxiety Disorder,difficulty concentrating
+Anxiety Disorder,irritability
+Anxiety Disorder,muscle tension
+Bipolar Disorder,manic episodes
+Bipolar Disorder,depressive episodes
+Bipolar Disorder,racing thoughts
+Bipolar Disorder,risk-taking behavior
+Bipolar Disorder,sleep problems
+Bipolar Disorder,irritability
+Schizophrenia,hallucinations
+Schizophrenia,delusions
+Schizophrenia,disorganized thinking
+Schizophrenia,lack of motivation
+Schizophrenia,social withdrawal
+Schizophrenia,flat affect
+OCD,obsessive thoughts
+OCD,compulsive behaviors
+OCD,fear of contamination
+OCD,need for symmetry
+OCD,excessive cleaning
+OCD,hoarding
+PTSD,flashbacks
+PTSD,nightmares
+PTSD,hypervigilance
+PTSD,avoidance of triggers
+PTSD,negative thoughts
+PTSD,sleep disturbances
+ADHD,inattention
+ADHD,hyperactivity
+ADHD,impulsivity
+ADHD,disorganization
+ADHD,forgetfulness
+ADHD,difficulty focusing
+Anorexia Nervosa,extreme weight loss
+Anorexia Nervosa,fear of gaining weight
+Anorexia Nervosa,distorted body image
+Anorexia Nervosa,amenorrhea
+Anorexia Nervosa,fatigue
+Anorexia Nervosa,dizziness
+Bulimia Nervosa,binge eating
+Bulimia Nervosa,self-induced vomiting
+Bulimia Nervosa,abuse of laxatives
+Bulimia Nervosa,sore throat
+Bulimia Nervosa,swollen salivary glands
+Bulimia Nervosa,dental erosion
+Cystic Fibrosis,salty-tasting skin
+Cystic Fibrosis,persistent cough
+Cystic Fibrosis,frequent lung infections
+Cystic Fibrosis,shortness of breath
+Cystic Fibrosis,poor growth
+Cystic Fibrosis,digestive issues
+Huntington’s Disease,involuntary jerking
+Huntington’s Disease,muscle rigidity
+Huntington’s Disease,slow eye movements
+Huntington’s Disease,impaired gait
+Huntington’s Disease,difficulty swallowing
+Huntington’s Disease,cognitive decline
+ALS (Lou Gehrig’s Disease),muscle weakness
+ALS (Lou Gehrig’s Disease),twitching
+ALS (Lou Gehrig’s Disease),slurred speech
+ALS (Lou Gehrig’s Disease),difficulty swallowing
+ALS (Lou Gehrig’s Disease),paralysis
+ALS (Lou Gehrig’s Disease),weight loss
+Marfan Syndrome,tall/slender build
+Marfan Syndrome,long limbs
+Marfan Syndrome,heart defects
+Marfan Syndrome,nearsightedness
+Marfan Syndrome,curved spine
+Marfan Syndrome,chest deformities
+Tourette Syndrome,motor tics
+Tourette Syndrome,vocal tics
+Tourette Syndrome,coprolalia
+Tourette Syndrome,eye blinking
+Tourette Syndrome,grimacing
+Tourette Syndrome,sniffing
+Phenylketonuria (PKU),intellectual disability
+Phenylketonuria (PKU),developmental delays
+Phenylketonuria (PKU),seizures
+Phenylketonuria (PKU),musty body odor
+Phenylketonuria (PKU),skin rashes
+Phenylketonuria (PKU),hyperactivity
+Sickle Cell Anemia,pain crises
+Sickle Cell Anemia,fatigue
+Sickle Cell Anemia,jaundice
+Sickle Cell Anemia,swelling in hands/feet
+Sickle Cell Anemia,frequent infections
+Sickle Cell Anemia,vision problems
+Hemophilia,excessive bleeding
+Hemophilia,joint swelling
+Hemophilia,easy bruising
+Hemophilia,blood in urine
+Hemophilia,nosebleeds
+Hemophilia,prolonged bleeding from cuts
+Ehlers-Danlos Syndrome,flexible joints
+Ehlers-Danlos Syndrome,stretchy skin
+Ehlers-Danlos Syndrome,easy bruising
+Ehlers-Danlos Syndrome,chronic pain
+Ehlers-Danlos Syndrome,joint dislocations
+Ehlers-Danlos Syndrome,fatigue
+Lung Cancer,persistent cough
+Lung Cancer,chest pain
+Lung Cancer,shortness of breath
+Lung Cancer,coughing up blood
+Lung Cancer,hoarseness
+Lung Cancer,weight loss
+Breast Cancer,breast lump
+Breast Cancer,nipple discharge
+Breast Cancer,skin dimpling
+Breast Cancer,redness/pitting of breast skin
+Breast Cancer,swelling
+Breast Cancer,pain
+Prostate Cancer,difficulty urinating
+Prostate Cancer,blood in urine
+Prostate Cancer,erectile dysfunction
+Prostate Cancer,bone pain
+Prostate Cancer,weight loss
+Prostate Cancer,fatigue
+Colon Cancer,blood in stool
+Colon Cancer,persistent diarrhea/constipation
+Colon Cancer,abdominal cramps
+Colon Cancer,unexplained weight loss
+Colon Cancer,fatigue
+Colon Cancer,weakness
+Leukemia,fever
+Leukemia,frequent infections
+Leukemia,easy bruising
+Leukemia,bone pain
+Leukemia,night sweats
+Leukemia,weight loss
+Melanoma,asymmetrical moles
+Melanoma,moles with irregular borders
+Melanoma,changes in mole color/size
+Melanoma,itching
+Melanoma,bleeding
+Melanoma,pain
+Pancreatic Cancer,abdominal pain
+Pancreatic Cancer,jaundice
+Pancreatic Cancer,weight loss
+Pancreatic Cancer,loss of appetite
+Pancreatic Cancer,dark urine
+Pancreatic Cancer,light-colored stools
+Ovarian Cancer,bloating
+Ovarian Cancer,pelvic pain
+Ovarian Cancer,urinary urgency
+Ovarian Cancer,loss of appetite
+Ovarian Cancer,fatigue
+Ovarian Cancer,changes in bowel habits
+Liver Cancer,weight loss
+Liver Cancer,loss of appetite
+Liver Cancer,upper abdominal pain
+Liver Cancer,nausea
+Liver Cancer,jaundice
+Liver Cancer,swollen abdomen
+GERD,heartburn
+GERD,regurgitation
+GERD,chest pain
+GERD,difficulty swallowing
+GERD,chronic cough
+GERD,sore throat
+Irritable Bowel Syndrome,abdominal pain
+Irritable Bowel Syndrome,bloating
+Irritable Bowel Syndrome,diarrhea
+Irritable Bowel Syndrome,constipation
+Irritable Bowel Syndrome,gas
+Irritable Bowel Syndrome,mucus in stool
+Celiac Disease,diarrhea
+Celiac Disease,bloating
+Celiac Disease,fatigue
+Celiac Disease,weight loss
+Celiac Disease,anemia
+Celiac Disease,skin rash (dermatitis herpetiformis)
+Gallstones,sudden upper right abdominal pain
+Gallstones,back pain
+Gallstones,nausea
+Gallstones,vomiting
+Gallstones,bloating
+Gallstones,jaundice
+Appendicitis,sudden abdominal pain
+Appendicitis,loss of appetite
+Appendicitis,nausea
+Appendicitis,vomiting
+Appendicitis,fever
+Appendicitis,abdominal swelling
+Diverticulitis,abdominal pain
+Diverticulitis,fever
+Diverticulitis,nausea
+Diverticulitis,vomiting
+Diverticulitis,constipation
+Diverticulitis,diarrhea
+Stroke,sudden numbness/weakness
+Stroke,confusion
+Stroke,trouble speaking
+Stroke,vision problems
+Stroke,dizziness
+Stroke,loss of balance
+Bell’s Palsy,sudden facial drooping
+Bell’s Palsy,drooling
+Bell’s Palsy,dry eye/mouth
+Bell’s Palsy,loss of taste
+Bell’s Palsy,headache
+Bell’s Palsy,sensitivity to sound
+Guillain-Barré Syndrome,tingling in limbs
+Guillain-Barré Syndrome,muscle weakness
+Guillain-Barré Syndrome,unsteady gait
+Guillain-Barré Syndrome,rapid heart rate
+Guillain-Barré Syndrome,difficulty breathing
+Guillain-Barré Syndrome,paralysis
+Restless Legs Syndrome,urge to move legs
+Restless Legs Syndrome,uncomfortable sensations in legs
+Restless Legs Syndrome,worsening symptoms at rest
+Restless Legs Syndrome,sleep disturbances
+Restless Legs Syndrome,daytime fatigue
+Neuropathy,numbness
+Neuropathy,tingling
+Neuropathy,burning pain
+Neuropathy,sensitivity to touch
+Neuropathy,muscle weakness
+Neuropathy,loss of coordination
+Bronchitis,persistent cough
+Bronchitis,mucus production
+Bronchitis,fatigue
+Bronchitis,shortness of breath
+Bronchitis,chest discomfort
+Bronchitis,mild fever
+Pneumonia,cough with phlegm
+Pneumonia,fever
+Pneumonia,chills
+Pneumonia,shortness of breath
+Pneumonia,chest pain
+Pneumonia,fatigue
+Sinusitis,facial pain
+Sinusitis,nasal congestion
+Sinusitis,thick nasal discharge
+Sinusitis,loss of smell
+Sinusitis,cough
+Sinusitis,fatigue
+Glaucoma,eye pain
+Glaucoma,blurred vision
+Glaucoma,halos around lights
+Glaucoma,headache
+Glaucoma,nausea
+Glaucoma,vision loss
+Cataracts,cloudy vision
+Cataracts,difficulty seeing at night
+Cataracts,sensitivity to light
+Cataracts,fading colors
+Cataracts,double vision
+Conjunctivitis,redness
+Conjunctivitis,itching
+Conjunctivitis,discharge
+Conjunctivitis,crusting of eyelids
+Conjunctivitis,tearing
+Conjunctivitis,gritty feeling
+Tonsillitis,sore throat
+Tonsillitis,swollen tonsils
+Tonsillitis,difficulty swallowing
+Tonsillitis,fever
+Tonsillitis,swollen lymph nodes
+Tonsillitis,hoarseness
+Pharyngitis,sore throat
+Pharyngitis,painful swallowing
+Pharyngitis,dry throat
+Pharyngitis,swollen lymph nodes
+Pharyngitis,hoarseness
+Pharyngitis,cough
+Gastritis,abdominal pain
+Gastritis,nausea
+Gastritis,vomiting
+Gastritis,indigestion
+Gastritis,bloating
+Gastritis,loss of appetite
+Pancreatitis,upper abdominal pain
+Pancreatitis,nausea
+Pancreatitis,vomiting
+Pancreatitis,fever
+Pancreatitis,rapid pulse
+Pancreatitis,tenderness when touching the abdomen
+Encephalitis,headache
+Encephalitis,fever
+Encephalitis,confusion
+Encephalitis,seizures
+Encephalitis,sensitivity to light
+Encephalitis,hallucinations
+Meningitis,stiff neck
+Meningitis,fever
+Meningitis,headache
+Meningitis,nausea
+Meningitis,sensitivity to light
+Meningitis,confusion
+Rabies,fever
+Rabies,headache
+Rabies,excess salivation
+Rabies,muscle spasms
+Rabies,agitation
+Rabies,hallucinations
+Tetanus,muscle stiffness
+Tetanus,jaw cramping
+Tetanus,difficulty swallowing
+Tetanus,muscle spasms
+Tetanus,fever
+Tetanus,sweating
+Whooping Cough,severe coughing fits
+Whooping Cough,whooping sound during inhalation
+Whooping Cough,runny nose
+Whooping Cough,fever
+Whooping Cough,vomiting after coughing
+Scarlet Fever,red rash
+Scarlet Fever,sore throat
+Scarlet Fever,high fever
+Scarlet Fever,flushed face
+Scarlet Fever,strawberry tongue
+Scarlet Fever,headache
+Rheumatic Fever,fever
+Rheumatic Fever,joint pain
+Rheumatic Fever,fatigue
+Rheumatic Fever,rash
+Rheumatic Fever,involuntary movements
+Rheumatic Fever,chest pain
+Sarcoidosis,fatigue
+Sarcoidosis,shortness of breath
+Sarcoidosis,dry cough
+Sarcoidosis,skin rashes
+Sarcoidosis,swollen lymph nodes
+Sarcoidosis,weight loss
+Laryngitis,hoarseness
+Laryngitis,loss of voice
+Laryngitis,sore throat
+Laryngitis,dry cough
+Laryngitis,tickling in throat
+Laryngitis,difficulty swallowing
+Mononucleosis,fatigue
+Mononucleosis,sore throat
+Mononucleosis,fever
+Mononucleosis,swollen lymph nodes
+Mononucleosis,body aches
+Mononucleosis,rash
+Shingles,painful rash
+Shingles,burning/tingling
+Shingles,blisters
+Shingles,itching
+Shingles,fever
+Shingles,headache
+Impetigo,honey-colored crusts
+Impetigo,red sores
+Impetigo,itchiness
+Impetigo,pain
+Impetigo,swollen lymph nodes
+Impetigo,contagious
+Cellulitis,"red, swollen skin"
+Cellulitis,pain
+Cellulitis,warmth
+Cellulitis,fever
+Cellulitis,skin dimpling
+Cellulitis,blisters
+Hepatitis C,fatigue
+Hepatitis C,jaundice
+Hepatitis C,abdominal pain
+Hepatitis C,loss of appetite
+Hepatitis C,nausea
+Hepatitis C,dark urine
+Gangrene,skin discoloration
+Gangrene,swelling
+Gangrene,pain
+Gangrene,foul-smelling discharge
+Gangrene,numbness
+Gangrene,blisters
+Sepsis,fever
+Sepsis,rapid heart rate
+Sepsis,rapid breathing
+Sepsis,confusion
+Sepsis,extreme pain
+Sepsis,low blood pressure
+Anthrax,skin sores
+Anthrax,fever
+Anthrax,headache
+Anthrax,nausea
+Anthrax,shortness of breath
+Anthrax,chest discomfort
+Botulism,blurred vision
+Botulism,slurred speech
+Botulism,difficulty swallowing
+Botulism,muscle weakness
+Botulism,paralysis
+Botulism,respiratory failure
+Leptospirosis,high fever
+Leptospirosis,headache
+Leptospirosis,muscle aches
+Leptospirosis,jaundice
+Leptospirosis,vomiting
+Leptospirosis,diarrhea
+Rocky Mountain Spotted Fever,fever
+Rocky Mountain Spotted Fever,headache
+Rocky Mountain Spotted Fever,rash
+Rocky Mountain Spotted Fever,nausea
+Rocky Mountain Spotted Fever,vomiting
+Rocky Mountain Spotted Fever,muscle pain
+Toxoplasmosis,flu-like symptoms
+Toxoplasmosis,swollen lymph nodes
+Toxoplasmosis,muscle aches
+Toxoplasmosis,headache
+Toxoplasmosis,fatigue
+Toxoplasmosis,blurred vision
+Trichinosis,muscle pain
+Trichinosis,fever
+Trichinosis,swelling around eyes
+Trichinosis,weakness
+Trichinosis,headache
+Trichinosis,sensitivity to light
+West Nile Virus,fever
+West Nile Virus,headache
+West Nile Virus,body aches
+West Nile Virus,joint pain
+West Nile Virus,vomiting
+West Nile Virus,rash
+Dengue Hemorrhagic Fever,high fever
+Dengue Hemorrhagic Fever,bleeding
+Dengue Hemorrhagic Fever,low platelet count
+Dengue Hemorrhagic Fever,abdominal pain
+Dengue Hemorrhagic Fever,vomiting
+Dengue Hemorrhagic Fever,restlessness
+Diptheria,sore throat
+Diptheria,swollen glands
+Diptheria,thick gray coating in throat
+Diptheria,fever
+Diptheria,weakness
+Diptheria,difficulty breathing
+Leprosy,skin lesions
+Leprosy,numbness
+Leprosy,muscle weakness
+Leprosy,eye damage
+Leprosy,nerve damage
+Leprosy,loss of fingers/toes
+Plague,fever
+Plague,chills
+Plague,swollen lymph nodes
+Plague,shortness of breath
+Plague,cough
+Plague,bloody sputum
+Q Fever,high fever
+Q Fever,severe headache
+Q Fever,muscle pain
+Q Fever,confusion
+Q Fever,sore throat
+Q Fever,chest pain
+Tularemia,skin ulcer
+Tularemia,swollen lymph nodes
+Tularemia,fever
+Tularemia,chills
+Tularemia,headache
+Tularemia,exhaustion
+Brucellosis,fever
+Brucellosis,joint pain
+Brucellosis,sweating
+Brucellosis,headache
+Brucellosis,fatigue
+Brucellosis,weight loss
+Histoplasmosis,fever
+Histoplasmosis,chest pain
+Histoplasmosis,cough
+Histoplasmosis,fatigue
+Histoplasmosis,body aches
+Histoplasmosis,weight loss
+Coccidioidomycosis,fever
+Coccidioidomycosis,cough
+Coccidioidomycosis,chest pain
+Coccidioidomycosis,rash
+Coccidioidomycosis,night sweats
+Coccidioidomycosis,joint pain
+Blastomycosis,fever
+Blastomycosis,cough
+Blastomycosis,chest pain
+Blastomycosis,fatigue
+Blastomycosis,weight loss
+Blastomycosis,skin lesions
+Aspergillosis,wheezing
+Aspergillosis,shortness of breath
+Aspergillosis,cough
+Aspergillosis,fever
+Aspergillosis,chest pain
+Aspergillosis,fatigue
+Candidiasis,white patches
+Candidiasis,itching
+Candidiasis,redness
+Candidiasis,burning
+Candidiasis,pain during sex
+Candidiasis,cottage cheese-like discharge
+Cryptococcosis,headache
+Cryptococcosis,fever
+Cryptococcosis,nausea
+Cryptococcosis,blurred vision
+Cryptococcosis,confusion
+Cryptococcosis,shortness of breath
+Legionnaires' Disease,cough
+Legionnaires' Disease,shortness of breath
+Legionnaires' Disease,fever
+Legionnaires' Disease,muscle aches
+Legionnaires' Disease,headache
+Legionnaires' Disease,diarrhea
+Listeriosis,fever
+Listeriosis,muscle aches
+Listeriosis,nausea
+Listeriosis,diarrhea
+Listeriosis,headache
+Listeriosis,confusion
+Salmonellosis,diarrhea
+Salmonellosis,fever
+Salmonellosis,abdominal cramps
+Salmonellosis,vomiting
+Salmonellosis,headache
+Salmonellosis,chills
+Shigellosis,diarrhea (often bloody)
+Shigellosis,fever
+Shigellosis,stomach cramps
+Shigellosis,nausea
+Shigellosis,vomiting
+Shigellosis,fatigue
+E. Coli Infection,diarrhea (bloody)
+E. Coli Infection,abdominal cramps
+E. Coli Infection,nausea
+E. Coli Infection,vomiting
+E. Coli Infection,fatigue
+E. Coli Infection,fever
+Norovirus,diarrhea
+Norovirus,vomiting
+Norovirus,stomach pain
+Norovirus,nausea
+Norovirus,fever
+Norovirus,headache
+Rotavirus,severe diarrhea
+Rotavirus,vomiting
+Rotavirus,fever
+Rotavirus,abdominal pain
+Rotavirus,dehydration
+Rotavirus,lethargy
+Giardiasis,diarrhea
+Giardiasis,gas
+Giardiasis,greasy stools
+Giardiasis,stomach cramps
+Giardiasis,nausea
+Giardiasis,dehydration
+Amebiasis,diarrhea (sometimes bloody)
+Amebiasis,stomach cramps
+Amebiasis,fatigue
+Amebiasis,weight loss
+Amebiasis,fever
+Amebiasis,gas
+Chikungunya,fever
+Chikungunya,joint pain
+Chikungunya,headache
+Chikungunya,muscle pain
+Chikungunya,rash
+Chikungunya,fatigue
+Dengue Shock Syndrome,severe abdominal pain
+Dengue Shock Syndrome,persistent vomiting
+Dengue Shock Syndrome,rapid breathing
+Dengue Shock Syndrome,bleeding gums
+Dengue Shock Syndrome,fatigue
+Dengue Shock Syndrome,restlessness
+Echinococcosis,abdominal pain
+Echinococcosis,nausea
+Echinococcosis,vomiting
+Echinococcosis,cough
+Echinococcosis,chest pain
+Echinococcosis,weight loss
+Filariasis,swelling in limbs
+Filariasis,fever
+Filariasis,chills
+Filariasis,skin thickening
+Filariasis,pain
+Filariasis,elephantiasis
+Onchocerciasis,itchy skin
+Onchocerciasis,skin nodules
+Onchocerciasis,vision changes
+Onchocerciasis,blindness
+Onchocerciasis,rash
+Onchocerciasis,depigmentation
+Schistosomiasis,abdominal pain
+Schistosomiasis,diarrhea
+Schistosomiasis,blood in stool
+Schistosomiasis,cough
+Schistosomiasis,fever
+Schistosomiasis,muscle aches
+Sleeping Sickness,fever
+Sleeping Sickness,headache
+Sleeping Sickness,joint pain
+Sleeping Sickness,itching
+Sleeping Sickness,confusion
+Sleeping Sickness,sleep disturbances
+Tapeworm Infection,abdominal pain
+Tapeworm Infection,weight loss
+Tapeworm Infection,nausea
+Tapeworm Infection,diarrhea
+Tapeworm Infection,hunger
+Tapeworm Infection,fatigue
+Hookworm Infection,itchy rash
+Hookworm Infection,abdominal pain
+Hookworm Infection,diarrhea
+Hookworm Infection,weight loss
+Hookworm Infection,fatigue
+Hookworm Infection,anemia
+Roundworm Infection,abdominal pain
+Roundworm Infection,nausea
+Roundworm Infection,diarrhea
+Roundworm Infection,weight loss
+Roundworm Infection,fatigue
+Roundworm Infection,visible worms in stool
+Pinworm Infection,anal itching
+Pinworm Infection,restlessness
+Pinworm Infection,vaginal itching
+Pinworm Infection,abdominal pain
+Pinworm Infection,nausea
+Pinworm Infection,insomnia
+Scabies,intense itching
+Scabies,rash
+Scabies,sores
+Scabies,thick crusts on skin
+Scabies,redness
+Scabies,blisters
+Lice Infestation,itching
+Lice Infestation,visible lice/nits
+Lice Infestation,sores from scratching
+Lice Infestation,irritability
+Lice Infestation,sleep difficulties
+Bedbug Bites,itchy red welts
+Bedbug Bites,swelling
+Bedbug Bites,blisters
+Bedbug Bites,anxiety
+Bedbug Bites,sleep disturbances
+Bedbug Bites,secondary infections
+Poison Ivy,red rash
+Poison Ivy,itching
+Poison Ivy,blisters
+Poison Ivy,swelling
+Poison Ivy,burning sensation
+Poison Ivy,difficulty breathing (if severe)
+Heat Stroke,high body temperature
+Heat Stroke,altered mental state
+Heat Stroke,nausea
+Heat Stroke,rapid heartbeat
+Heat Stroke,headache
+Heat Stroke,lack of sweating
+Hypothermia,shivering
+Hypothermia,slurred speech
+Hypothermia,slow breathing
+Hypothermia,weak pulse
+Hypothermia,confusion
+Hypothermia,loss of consciousness
+Frostbite,numbness
+Frostbite,tingling
+Frostbite,pale/yellowish skin
+Frostbite,hard/waxy skin
+Frostbite,blisters
+Frostbite,tissue death
+Dehydration,thirst
+Dehydration,dry mouth
+Dehydration,reduced urination
+Dehydration,dark urine
+Dehydration,dizziness
+Dehydration,fatigue
+Malnutrition,weight loss
+Malnutrition,muscle wasting
+Malnutrition,fatigue
+Malnutrition,swollen abdomen
+Malnutrition,brittle hair/nails
+Malnutrition,delayed wound healing
+Obesity,excess body fat
+Obesity,shortness of breath
+Obesity,snoring
+Obesity,back/joint pain
+Obesity,fatigue
+Obesity,increased sweating
+Vitamin D Deficiency,bone pain
+Vitamin D Deficiency,muscle weakness
+Vitamin D Deficiency,fatigue
+Vitamin D Deficiency,mood changes
+Vitamin D Deficiency,hair loss
+Vitamin D Deficiency,frequent infections
+Iron Deficiency Anemia,fatigue
+Iron Deficiency Anemia,pale skin
+Iron Deficiency Anemia,shortness of breath
+Iron Deficiency Anemia,dizziness
+Iron Deficiency Anemia,cold hands/feet
+Iron Deficiency Anemia,brittle nails
+Scurvy,fatigue
+Scurvy,swollen gums
+Scurvy,joint pain
+Scurvy,bruising
+Scurvy,poor wound healing
+Scurvy,corkscrew hairs
+Beriberi,difficulty walking
+Beriberi,loss of sensation
+Beriberi,confusion
+Beriberi,shortness of breath
+Beriberi,swelling
+Beriberi,rapid heartbeat
+Pellagra,diarrhea
+Pellagra,dermatitis
+Pellagra,dementia
+Pellagra,red skin lesions
+Pellagra,mouth sores
+Pellagra,aggression
+Rickets,bone pain
+Rickets,delayed growth
+Rickets,bowed legs
+Rickets,thickened wrists/ankles
+Rickets,muscle weakness
+Rickets,dental deformities
+Hyperthyroidism,weight loss
+Hyperthyroidism,rapid heartbeat
+Hyperthyroidism,nervousness
+Hyperthyroidism,sweating
+Hyperthyroidism,tremors
+Hyperthyroidism,heat intolerance
+Hypothyroidism,weight gain
+Hypothyroidism,fatigue
+Hypothyroidism,cold intolerance
+Hypothyroidism,dry skin
+Hypothyroidism,constipation
+Hypothyroidism,depression
+Addison’s Disease,fatigue
+Addison’s Disease,weight loss
+Addison’s Disease,darkening of skin
+Addison’s Disease,low blood pressure
+Addison’s Disease,salt craving
+Addison’s Disease,muscle/joint pain
+Cushing’s Syndrome,weight gain
+Cushing’s Syndrome,moon face
+Cushing’s Syndrome,buffalo hump
+Cushing’s Syndrome,purple stretch marks
+Cushing’s Syndrome,thinning skin
+Cushing’s Syndrome,muscle weakness
+Graves’ Disease,bulging eyes
+Graves’ Disease,anxiety
+Graves’ Disease,tremors
+Graves’ Disease,heat intolerance
+Graves’ Disease,weight loss
+Graves’ Disease,rapid heartbeat
+Hashimoto’s Thyroiditis,fatigue
+Hashimoto’s Thyroiditis,weight gain
+Hashimoto’s Thyroiditis,cold intolerance
+Hashimoto’s Thyroiditis,muscle weakness
+Hashimoto’s Thyroiditis,constipation
+Hashimoto’s Thyroiditis,depression
+Pituitary Tumor,headaches
+Pituitary Tumor,vision loss
+Pituitary Tumor,nausea
+Pituitary Tumor,fatigue
+Pituitary Tumor,hormonal imbalances
+Pituitary Tumor,weight gain/loss
+Acromegaly,enlarged hands/feet
+Acromegaly,coarse facial features
+Acromegaly,joint pain
+Acromegaly,deepened voice
+Acromegaly,snoring
+Acromegaly,excessive sweating
+Pheochromocytoma,high blood pressure
+Pheochromocytoma,headaches
+Pheochromocytoma,sweating
+Pheochromocytoma,rapid heartbeat
+Pheochromocytoma,paleness
+Pheochromocytoma,anxiety
+Carcinoid Syndrome,facial flushing
+Carcinoid Syndrome,diarrhea
+Carcinoid Syndrome,abdominal cramps
+Carcinoid Syndrome,wheezing
+Carcinoid Syndrome,heart palpitations
+Carcinoid Syndrome,skin lesions
+Myasthenia Gravis,muscle weakness
+Myasthenia Gravis,drooping eyelids
+Myasthenia Gravis,double vision
+Myasthenia Gravis,difficulty swallowing
+Myasthenia Gravis,slurred speech
+Myasthenia Gravis,shortness of breath
+Sjogren’s Syndrome,dry eyes
+Sjogren’s Syndrome,dry mouth
+Sjogren’s Syndrome,joint pain
+Sjogren’s Syndrome,fatigue
+Sjogren’s Syndrome,swollen salivary glands
+Sjogren’s Syndrome,skin rashes
+Vasculitis,fever
+Vasculitis,fatigue
+Vasculitis,weight loss
+Vasculitis,muscle/joint pain
+Vasculitis,nerve problems
+Vasculitis,skin rashes
+Wegener’s Granulomatosis,sinus pain
+Wegener’s Granulomatosis,nasal crusting
+Wegener’s Granulomatosis,cough
+Wegener’s Granulomatosis,shortness of breath
+Wegener’s Granulomatosis,joint pain
+Wegener’s Granulomatosis,kidney problems
+Goodpasture Syndrome,coughing up blood
+Goodpasture Syndrome,shortness of breath
+Goodpasture Syndrome,fatigue
+Goodpasture Syndrome,nausea
+Goodpasture Syndrome,pale skin
+Goodpasture Syndrome,chest pain
+Kawasaki Disease,fever
+Kawasaki Disease,rash
+Kawasaki Disease,swollen hands/feet
+Kawasaki Disease,red eyes
+Kawasaki Disease,swollen lymph nodes
+Kawasaki Disease,peeling skin
+Down Syndrome,flattened face
+Down Syndrome,almond-shaped eyes
+Down Syndrome,short neck
+Down Syndrome,small hands/feet
+Down Syndrome,poor muscle tone
+Down Syndrome,developmental delays
+Cerebral Palsy,stiff muscles
+Cerebral Palsy,exaggerated reflexes
+Cerebral Palsy,lack of muscle coordination
+Cerebral Palsy,tremors
+Cerebral Palsy,difficulty walking
+Cerebral Palsy,speech delays
+Autism Spectrum Disorder,social difficulties
+Autism Spectrum Disorder,repetitive behaviors
+Autism Spectrum Disorder,communication challenges
+Autism Spectrum Disorder,sensory sensitivities
+Autism Spectrum Disorder,fixed routines
+Autism Spectrum Disorder,delayed speech
+Dyslexia,difficulty reading
+Dyslexia,slow reading
+Dyslexia,problems spelling
+Dyslexia,avoidance of reading
+Dyslexia,mixing up letters/words
+Dyslexia,poor handwriting
+Dyspraxia,poor coordination
+Dyspraxia,clumsiness
+Dyspraxia,difficulty with fine motor tasks
+Dyspraxia,speech problems
+Dyspraxia,sensitivity to touch
+Dyspraxia,learning difficulties
+Aphasia,difficulty speaking
+Aphasia,trouble understanding speech
+Aphasia,problems reading/writing
+Aphasia,using incorrect words
+Aphasia,frustration
+Aphasia,social withdrawal
+Dementia,memory loss
+Dementia,confusion
+Dementia,disorientation
+Dementia,personality changes
+Dementia,apathy
+Dementia,difficulty communicating
+Insomnia,difficulty falling asleep
+Insomnia,waking up often
+Insomnia,daytime fatigue
+Insomnia,irritability
+Insomnia,poor concentration
+Insomnia,anxiety about sleep
+Narcolepsy,excessive daytime sleepiness
+Narcolepsy,sudden loss of muscle tone
+Narcolepsy,sleep paralysis
+Narcolepsy,hallucinations
+Narcolepsy,disrupted nighttime sleep
+Sleep Apnea,loud snoring
+Sleep Apnea,gasping for air during sleep
+Sleep Apnea,morning headache
+Sleep Apnea,dry mouth
+Sleep Apnea,irritability
+Sleep Apnea,attention problems
+Bruxism,teeth grinding
+Bruxism,jaw pain
+Bruxism,headache
+Bruxism,tooth damage
+Bruxism,earache
+Bruxism,sleep disturbances
+Temporomandibular Joint Disorder (TMJ),jaw pain
+Temporomandibular Joint Disorder (TMJ),clicking/popping jaw
+Temporomandibular Joint Disorder (TMJ),difficulty chewing
+Temporomandibular Joint Disorder (TMJ),headache
+Temporomandibular Joint Disorder (TMJ),earache
+Temporomandibular Joint Disorder (TMJ),facial pain
+Carpal Tunnel Syndrome,numbness/tingling in fingers
+Carpal Tunnel Syndrome,hand weakness
+Carpal Tunnel Syndrome,pain radiating up arm
+Carpal Tunnel Syndrome,clumsiness
+Carpal Tunnel Syndrome,nighttime symptoms
+Carpal Tunnel Syndrome,shock-like sensations
+Plantar Fasciitis,heel pain
+Plantar Fasciitis,stiffness
+Plantar Fasciitis,pain after rest
+Plantar Fasciitis,swelling
+Plantar Fasciitis,pain worse in morning
+Plantar Fasciitis,difficulty walking
+Tendinitis,pain near joints
+Tendinitis,stiffness
+Tendinitis,swelling
+Tendinitis,tenderness
+Tendinitis,weakness
+Tendinitis,warmth over tendon
+Bursitis,joint pain
+Bursitis,stiffness
+Bursitis,swelling
+Bursitis,redness
+Bursitis,warmth
+Bursitis,pain with movement
+Osteomyelitis,bone pain
+Osteomyelitis,fever
+Osteomyelitis,swelling
+Osteomyelitis,redness
+Osteomyelitis,warmth
+Osteomyelitis,fatigue
+Scoliosis,uneven shoulders
+Scoliosis,uneven waist
+Scoliosis,one hip higher
+Scoliosis,rib hump
+Scoliosis,back pain
+Scoliosis,fatigue
+Kyphosis,rounded back
+Kyphosis,back pain
+Kyphosis,stiffness
+Kyphosis,fatigue
+Kyphosis,breathing difficulties
+Kyphosis,forward head posture
+Lordosis,swayback
+Lordosis,lower back pain
+Lordosis,discomfort lying down
+Lordosis,muscle tightness
+Lordosis,protruding abdomen
+Lordosis,difficulty moving
+Osteopenia,bone fragility
+Osteopenia,increased fracture risk
+Osteopenia,no symptoms (usually)
+Osteopenia,back pain (if fractures)
+Osteopenia,height loss
+Osteopenia,stooped posture
+Gigantism,excessive growth
+Gigantism,large hands/feet
+Gigantism,coarse facial features
+Gigantism,joint pain
+Gigantism,headaches
+Gigantism,vision problems
+Dwarfism,short stature
+Dwarfism,short limbs
+Dwarfism,joint pain
+Dwarfism,curved spine
+Dwarfism,breathing problems
+Dwarfism,delayed development
+Epidermolysis Bullosa,fragile skin
+Epidermolysis Bullosa,blisters
+Epidermolysis Bullosa,open sores
+Epidermolysis Bullosa,nail loss
+Epidermolysis Bullosa,thickened skin
+Epidermolysis Bullosa,dental problems
+Porphyria,abdominal pain
+Porphyria,sensitivity to sunlight
+Porphyria,blistering skin
+Porphyria,neurological issues
+Porphyria,urine discoloration
+Porphyria,mental changes
+Wilson’s Disease,tremors
+Wilson’s Disease,difficulty speaking
+Wilson’s Disease,jaundice
+Wilson’s Disease,swelling in legs
+Wilson’s Disease,personality changes
+Wilson’s Disease,Kayser-Fleischer rings in eyes
+Gaucher Disease,enlarged liver/spleen
+Gaucher Disease,bone pain
+Gaucher Disease,anemia
+Gaucher Disease,low platelets
+Gaucher Disease,fatigue
+Gaucher Disease,bruising
+Fabry Disease,burning pain in hands/feet
+Fabry Disease,skin rash
+Fabry Disease,cloudy vision
+Fabry Disease,hearing loss
+Fabry Disease,gastrointestinal issues
+Fabry Disease,kidney problems
+Niemann-Pick Disease,enlarged liver/spleen
+Niemann-Pick Disease,neurodegeneration
+Niemann-Pick Disease,difficulty swallowing
+Niemann-Pick Disease,loss of motor skills
+Niemann-Pick Disease,seizures
+Niemann-Pick Disease,respiratory infections
+Tay-Sachs Disease,developmental regression
+Tay-Sachs Disease,loss of motor skills
+Tay-Sachs Disease,seizures
+Tay-Sachs Disease,blindness
+Tay-Sachs Disease,deafness
+Tay-Sachs Disease,muscle stiffness
+Krabbe Disease,irritability
+Krabbe Disease,muscle weakness
+Krabbe Disease,feeding difficulties
+Krabbe Disease,developmental delays
+Krabbe Disease,vision loss
+Krabbe Disease,seizures
+Maple Syrup Urine Disease,sweet-smelling urine
+Maple Syrup Urine Disease,poor feeding
+Maple Syrup Urine Disease,vomiting
+Maple Syrup Urine Disease,lethargy
+Maple Syrup Urine Disease,developmental delays
+Maple Syrup Urine Disease,seizures
+Homocystinuria,dislocated lenses in eyes
+Homocystinuria,long limbs
+Homocystinuria,osteoporosis
+Homocystinuria,intellectual disability
+Homocystinuria,blood clots
+Homocystinuria,chest deformities
+Alkaptonuria,dark urine
+Alkaptonuria,ear cartilage discoloration
+Alkaptonuria,arthritis
+Alkaptonuria,kidney stones
+Alkaptonuria,prostate stones
+Alkaptonuria,heart valve problems
+Cystinuria,kidney stones
+Cystinuria,flank pain
+Cystinuria,blood in urine
+Cystinuria,urinary urgency
+Cystinuria,nausea
+Cystinuria,vomiting
+Lesch-Nyhan Syndrome,neurological impairment
+Lesch-Nyhan Syndrome,self-injurious behavior
+Lesch-Nyhan Syndrome,gout-like symptoms
+Lesch-Nyhan Syndrome,kidney stones
+Lesch-Nyhan Syndrome,difficulty swallowing
+Lesch-Nyhan Syndrome,developmental delays
+Prader-Willi Syndrome,poor muscle tone
+Prader-Willi Syndrome,feeding difficulties
+Prader-Willi Syndrome,delayed development
+Prader-Willi Syndrome,insatiable appetite
+Prader-Willi Syndrome,obesity
+Prader-Willi Syndrome,behavioral problems
+Angelman Syndrome,developmental delays
+Angelman Syndrome,lack of speech
+Angelman Syndrome,happy demeanor
+Angelman Syndrome,balance issues
+Angelman Syndrome,seizures
+Angelman Syndrome,microcephaly
+Rett Syndrome,loss of purposeful hand skills
+Rett Syndrome,slowed growth
+Rett Syndrome,gait abnormalities
+Rett Syndrome,seizures
+Rett Syndrome,breathing irregularities
+Rett Syndrome,cognitive impairment
+Fragile X Syndrome,intellectual disability
+Fragile X Syndrome,long face
+Fragile X Syndrome,large ears
+Fragile X Syndrome,social anxiety
+Fragile X Syndrome,hand-flapping
+Fragile X Syndrome,delayed speech
+Williams Syndrome,elfin facial features
+Williams Syndrome,cardiovascular problems
+Williams Syndrome,developmental delays
+Williams Syndrome,overly friendly personality
+Williams Syndrome,learning disabilities
+Williams Syndrome,sensitivity to sound
+Noonan Syndrome,short stature
+Noonan Syndrome,heart defects
+Noonan Syndrome,broad forehead
+Noonan Syndrome,webbed neck
+Noonan Syndrome,chest deformities
+Noonan Syndrome,developmental delays
+Turner Syndrome,short stature
+Turner Syndrome,infertility
+Turner Syndrome,webbed neck
+Turner Syndrome,heart defects
+Turner Syndrome,swollen hands/feet
+Turner Syndrome,delayed puberty
+Klinefelter Syndrome,tall stature
+Klinefelter Syndrome,small testes
+Klinefelter Syndrome,infertility
+Klinefelter Syndrome,gynecomastia
+Klinefelter Syndrome,reduced facial/body hair
+Klinefelter Syndrome,learning difficulties
+Triple X Syndrome,tall stature
+Triple X Syndrome,learning disabilities
+Triple X Syndrome,delayed speech
+Triple X Syndrome,motor skill delays
+Triple X Syndrome,anxiety
+Triple X Syndrome,seizures
+XYY Syndrome,tall stature
+XYY Syndrome,acne
+XYY Syndrome,speech delays
+XYY Syndrome,learning disabilities
+XYY Syndrome,ADHD-like symptoms
+XYY Syndrome,mild hypotonia
+Cri du Chat Syndrome,high-pitched cry
+Cri du Chat Syndrome,microcephaly
+Cri du Chat Syndrome,developmental delays
+Cri du Chat Syndrome,feeding difficulties
+Cri du Chat Syndrome,hypotonia
+Cri du Chat Syndrome,facial abnormalities
+Progeria,premature aging
+Progeria,growth failure
+Progeria,hair loss
+Progeria,stiff joints
+Progeria,heart disease
+Progeria,"thin, wrinkled skin"
+Aarskog Syndrome,short stature
+Aarskog Syndrome,facial abnormalities
+Aarskog Syndrome,shawl scrotum
+Aarskog Syndrome,delayed puberty
+Aarskog Syndrome,developmental delays
+Aarskog Syndrome,hyperactivity
+Cornelia de Lange Syndrome,thick eyebrows
+Cornelia de Lange Syndrome,long eyelashes
+Cornelia de Lange Syndrome,small stature
+Cornelia de Lange Syndrome,limb abnormalities
+Cornelia de Lange Syndrome,developmental delays
+Cornelia de Lange Syndrome,gastrointestinal issues
+Smith-Lemli-Opitz Syndrome,microcephaly
+Smith-Lemli-Opitz Syndrome,cleft palate
+Smith-Lemli-Opitz Syndrome,developmental delays
+Smith-Lemli-Opitz Syndrome,autism-like behaviors
+Smith-Lemli-Opitz Syndrome,feeding difficulties
+Smith-Lemli-Opitz Syndrome,photosensitivity
+CHARGE Syndrome,coloboma
+CHARGE Syndrome,heart defects
+CHARGE Syndrome,choanal atresia
+CHARGE Syndrome,growth delays
+CHARGE Syndrome,genital abnormalities
+CHARGE Syndrome,ear abnormalities
+VATER Association,vertebral defects
+VATER Association,anal atresia
+VATER Association,tracheoesophageal fistula
+VATER Association,radial dysplasia
+VATER Association,kidney abnormalities
+VATER Association,heart defects
+Sturge-Weber Syndrome,facial port-wine stain
+Sturge-Weber Syndrome,seizures
+Sturge-Weber Syndrome,glaucoma
+Sturge-Weber Syndrome,developmental delays
+Sturge-Weber Syndrome,hemiparesis
+Sturge-Weber Syndrome,migraines
+Neurofibromatosis,café-au-lait spots
+Neurofibromatosis,neurofibromas
+Neurofibromatosis,learning disabilities
+Neurofibromatosis,vision problems
+Neurofibromatosis,bone deformities
+Neurofibromatosis,tumors
+Tuberous Sclerosis,facial angiofibromas
+Tuberous Sclerosis,seizures
+Tuberous Sclerosis,developmental delays
+Tuberous Sclerosis,skin hypopigmentation
+Tuberous Sclerosis,kidney tumors
+Tuberous Sclerosis,heart tumors
+Von Hippel-Lindau Disease,hemangioblastomas
+Von Hippel-Lindau Disease,kidney cysts
+Von Hippel-Lindau Disease,pancreatic cysts
+Von Hippel-Lindau Disease,pheochromocytoma
+Von Hippel-Lindau Disease,vision loss
+Von Hippel-Lindau Disease,hearing loss
+Peutz-Jeghers Syndrome,dark freckles on lips/mouth
+Peutz-Jeghers Syndrome,intestinal polyps
+Peutz-Jeghers Syndrome,abdominal pain
+Peutz-Jeghers Syndrome,blood in stool
+Peutz-Jeghers Syndrome,bowel obstruction
+Peutz-Jeghers Syndrome,increased cancer risk
+Li-Fraumeni Syndrome,multiple cancers
+Li-Fraumeni Syndrome,sarcomas
+Li-Fraumeni Syndrome,breast cancer
+Li-Fraumeni Syndrome,brain tumors
+Li-Fraumeni Syndrome,adrenocortical carcinoma
+Li-Fraumeni Syndrome,leukemia
+Fanconi Anemia,bone marrow failure
+Fanconi Anemia,short stature
+Fanconi Anemia,abnormal thumbs
+Fanconi Anemia,skin pigmentation
+Fanconi Anemia,increased cancer risk
+Fanconi Anemia,developmental delays
+Thalassemia,anemia
+Thalassemia,fatigue
+Thalassemia,pale skin
+Thalassemia,jaundice
+Thalassemia,facial bone deformities
+Thalassemia,growth delays
+Sickle Cell Disease,pain crises
+Sickle Cell Disease,anemia
+Sickle Cell Disease,jaundice
+Sickle Cell Disease,swelling in hands/feet
+Sickle Cell Disease,frequent infections
+Sickle Cell Disease,vision problems
+Hemochromatosis,joint pain
+Hemochromatosis,fatigue
+Hemochromatosis,abdominal pain
+Hemochromatosis,loss of libido
+Hemochromatosis,bronze skin
+Hemochromatosis,heart problems
+Thrombocytopenia,easy bruising
+Thrombocytopenia,petechiae
+Thrombocytopenia,prolonged bleeding
+Thrombocytopenia,nosebleeds
+Thrombocytopenia,bleeding gums
+Thrombocytopenia,blood in urine/stool
+Von Willebrand Disease,easy bruising
+Von Willebrand Disease,frequent nosebleeds
+Von Willebrand Disease,heavy menstrual bleeding
+Von Willebrand Disease,prolonged bleeding
+Von Willebrand Disease,blood in stool
+Von Willebrand Disease,bleeding gums
+Disseminated Intravascular Coagulation (DIC),bleeding from multiple sites
+Disseminated Intravascular Coagulation (DIC),blood clots
+Disseminated Intravascular Coagulation (DIC),confusion
+Disseminated Intravascular Coagulation (DIC),shortness of breath
+Disseminated Intravascular Coagulation (DIC),chest pain
+Disseminated Intravascular Coagulation (DIC),organ failure
+Leukocytosis,fever
+Leukocytosis,fatigue
+Leukocytosis,night sweats
+Leukocytosis,weight loss
+Leukocytosis,easy bruising/bleeding
+Leukocytosis,frequent infections
+Polycythemia Vera,headache
+Polycythemia Vera,dizziness
+Polycythemia Vera,itchy skin
+Polycythemia Vera,redness of face
+Polycythemia Vera,blurred vision
+Polycythemia Vera,shortness of breath
+Myelodysplastic Syndromes,anemia
+Myelodysplastic Syndromes,fatigue
+Myelodysplastic Syndromes,shortness of breath
+Myelodysplastic Syndromes,easy bruising
+Myelodysplastic Syndromes,frequent infections
+Myelodysplastic Syndromes,pale skin
+Multiple Myeloma,bone pain
+Multiple Myeloma,frequent infections
+Multiple Myeloma,fatigue
+Multiple Myeloma,kidney problems
+Multiple Myeloma,hypercalcemia
+Multiple Myeloma,anemia
+Lymphoma,swollen lymph nodes
+Lymphoma,fatigue
+Lymphoma,night sweats
+Lymphoma,weight loss
+Lymphoma,itching
+Lymphoma,fever
+Hodgkin’s Lymphoma,painless swelling of lymph nodes
+Hodgkin’s Lymphoma,fever
+Hodgkin’s Lymphoma,night sweats
+Hodgkin’s Lymphoma,weight loss
+Hodgkin’s Lymphoma,itching
+Hodgkin’s Lymphoma,fatigue
+Non-Hodgkin’s Lymphoma,swollen lymph nodes
+Non-Hodgkin’s Lymphoma,abdominal pain
+Non-Hodgkin’s Lymphoma,chest pain
+Non-Hodgkin’s Lymphoma,coughing
+Non-Hodgkin’s Lymphoma,shortness of breath
+Non-Hodgkin’s Lymphoma,fatigue
+Myelofibrosis,anemia
+Myelofibrosis,enlarged spleen
+Myelofibrosis,fatigue
+Myelofibrosis,night sweats
+Myelofibrosis,bone pain
+Myelofibrosis,weight loss
+Essential Thrombocythemia,headache
+Essential Thrombocythemia,dizziness
+Essential Thrombocythemia,chest pain
+Essential Thrombocythemia,tingling in hands/feet
+Essential Thrombocythemia,redness/warmth in hands/feet
+Essential Thrombocythemia,vision changes
+Aplastic Anemia,fatigue
+Aplastic Anemia,shortness of breath
+Aplastic Anemia,frequent infections
+Aplastic Anemia,pale skin
+Aplastic Anemia,easy bruising
+Aplastic Anemia,nosebleeds
+Pernicious Anemia,fatigue
+Pernicious Anemia,pale skin
+Pernicious Anemia,shortness of breath
+Pernicious Anemia,numbness/tingling
+Pernicious Anemia,balance problems
+Pernicious Anemia,cognitive changes
+Hemolytic Anemia,jaundice
+Hemolytic Anemia,dark urine
+Hemolytic Anemia,fatigue
+Hemolytic Anemia,pale skin
+Hemolytic Anemia,shortness of breath
+Hemolytic Anemia,rapid heart rate
+Megaloblastic Anemia,fatigue
+Megaloblastic Anemia,pale skin
+Megaloblastic Anemia,shortness of breath
+Megaloblastic Anemia,numbness/tingling
+Megaloblastic Anemia,muscle weakness
+Megaloblastic Anemia,cognitive changes
+Sideroblastic Anemia,fatigue
+Sideroblastic Anemia,weakness
+Sideroblastic Anemia,shortness of breath
+Sideroblastic Anemia,pale skin
+Sideroblastic Anemia,enlarged liver/spleen
+Sideroblastic Anemia,heart palpitations
+Autoimmune Hemolytic Anemia,jaundice
+Autoimmune Hemolytic Anemia,dark urine
+Autoimmune Hemolytic Anemia,fatigue
+Autoimmune Hemolytic Anemia,pale skin
+Autoimmune Hemolytic Anemia,shortness of breath
+Autoimmune Hemolytic Anemia,rapid heart rate
+Thrombotic Thrombocytopenic Purpura (TTP),fever
+Thrombotic Thrombocytopenic Purpura (TTP),neurological symptoms
+Thrombotic Thrombocytopenic Purpura (TTP),kidney failure
+Thrombotic Thrombocytopenic Purpura (TTP),purpura
+Thrombotic Thrombocytopenic Purpura (TTP),fatigue
+Thrombotic Thrombocytopenic Purpura (TTP),pale skin
+Hemolytic Uremic Syndrome (HUS),diarrhea (bloody)
+Hemolytic Uremic Syndrome (HUS),vomiting
+Hemolytic Uremic Syndrome (HUS),pale skin
+Hemolytic Uremic Syndrome (HUS),fatigue
+Hemolytic Uremic Syndrome (HUS),decreased urination
+Hemolytic Uremic Syndrome (HUS),bruising
+Idiopathic Thrombocytopenic Purpura (ITP),easy bruising
+Idiopathic Thrombocytopenic Purpura (ITP),petechiae
+Idiopathic Thrombocytopenic Purpura (ITP),nosebleeds
+Idiopathic Thrombocytopenic Purpura (ITP),bleeding gums
+Idiopathic Thrombocytopenic Purpura (ITP),heavy menstrual bleeding
+Idiopathic Thrombocytopenic Purpura (ITP),blood in urine/stool
+Bernard-Soulier Syndrome,easy bruising
+Bernard-Soulier Syndrome,nosebleeds
+Bernard-Soulier Syndrome,bleeding gums
+Bernard-Soulier Syndrome,heavy menstrual bleeding
+Bernard-Soulier Syndrome,prolonged bleeding
+Bernard-Soulier Syndrome,large platelets
+Glanzmann’s Thrombasthenia,easy bruising
+Glanzmann’s Thrombasthenia,nosebleeds
+Glanzmann’s Thrombasthenia,bleeding gums
+Glanzmann’s Thrombasthenia,heavy menstrual bleeding
+Glanzmann’s Thrombasthenia,prolonged bleeding
+Glanzmann’s Thrombasthenia,blood in urine/stool
+Factor V Leiden,blood clots
+Factor V Leiden,deep vein thrombosis
+Factor V Leiden,pulmonary embolism
+Factor V Leiden,swelling
+Factor V Leiden,pain
+Factor V Leiden,redness
+Protein C Deficiency,blood clots
+Protein C Deficiency,skin necrosis
+Protein C Deficiency,purpura fulminans
+Protein C Deficiency,swelling
+Protein C Deficiency,pain
+Protein C Deficiency,redness
+Protein S Deficiency,blood clots
+Protein S Deficiency,deep vein thrombosis
+Protein S Deficiency,pulmonary embolism
+Protein S Deficiency,swelling
+Protein S Deficiency,pain
+Protein S Deficiency,redness
+Antithrombin III Deficiency,blood clots
+Antithrombin III Deficiency,deep vein thrombosis
+Antithrombin III Deficiency,pulmonary embolism
+Antithrombin III Deficiency,swelling
+Antithrombin III Deficiency,pain
+Antithrombin III Deficiency,redness
+Hemophagocytic Lymphohistiocytosis (HLH),fever
+Hemophagocytic Lymphohistiocytosis (HLH),enlarged liver/spleen
+Hemophagocytic Lymphohistiocytosis (HLH),cytopenias
+Hemophagocytic Lymphohistiocytosis (HLH),neurological symptoms
+Hemophagocytic Lymphohistiocytosis (HLH),rash
+Hemophagocytic Lymphohistiocytosis (HLH),lymphadenopathy
+Langerhans Cell Histiocytosis,bone lesions
+Langerhans Cell Histiocytosis,skin rash
+Langerhans Cell Histiocytosis,diabetes insipidus
+Langerhans Cell Histiocytosis,shortness of breath
+Langerhans Cell Histiocytosis,swollen lymph nodes
+Langerhans Cell Histiocytosis,fever
+Mastocytosis,itchy skin lesions
+Mastocytosis,flushing
+Mastocytosis,abdominal pain
+Mastocytosis,diarrhea
+Mastocytosis,fainting
+Mastocytosis,anaphylaxis
+Eosinophilic Esophagitis,difficulty swallowing
+Eosinophilic Esophagitis,food impaction
+Eosinophilic Esophagitis,chest pain
+Eosinophilic Esophagitis,heartburn
+Eosinophilic Esophagitis,vomiting
+Eosinophilic Esophagitis,failure to thrive
+Eosinophilic Gastroenteritis,abdominal pain
+Eosinophilic Gastroenteritis,diarrhea
+Eosinophilic Gastroenteritis,nausea
+Eosinophilic Gastroenteritis,vomiting
+Eosinophilic Gastroenteritis,weight loss
+Eosinophilic Gastroenteritis,malnutrition
+Amyloidosis,fatigue
+Amyloidosis,weight loss
+Amyloidosis,swelling in legs
+Amyloidosis,shortness of breath
+Amyloidosis,numbness/tingling
+Amyloidosis,protein in urine
+Granulomatosis with Polyangiitis,sinus pain
+Granulomatosis with Polyangiitis,nasal crusting
+Granulomatosis with Polyangiitis,cough
+Granulomatosis with Polyangiitis,shortness of breath
+Granulomatosis with Polyangiitis,joint pain
+Granulomatosis with Polyangiitis,kidney problems
+Microscopic Polyangiitis,fatigue
+Microscopic Polyangiitis,weight loss
+Microscopic Polyangiitis,muscle/joint pain
+Microscopic Polyangiitis,nerve problems
+Microscopic Polyangiitis,skin rashes
+Microscopic Polyangiitis,kidney issues
+Eosinophilic Granulomatosis with Polyangiitis,asthma
+Eosinophilic Granulomatosis with Polyangiitis,sinusitis
+Eosinophilic Granulomatosis with Polyangiitis,nerve pain
+Eosinophilic Granulomatosis with Polyangiitis,skin lesions
+Eosinophilic Granulomatosis with Polyangiitis,fever
+Eosinophilic Granulomatosis with Polyangiitis,weight loss
+Behçet’s Disease,mouth sores
+Behçet’s Disease,genital sores
+Behçet’s Disease,eye inflammation
+Behçet’s Disease,skin lesions
+Behçet’s Disease,joint pain
+Behçet’s Disease,gastrointestinal issues
+Relapsing Polychondritis,ear pain
+Relapsing Polychondritis,nose pain
+Relapsing Polychondritis,joint pain
+Relapsing Polychondritis,eye inflammation
+Relapsing Polychondritis,respiratory problems
+Relapsing Polychondritis,hearing loss
+IgG4-Related Disease,swelling of glands
+IgG4-Related Disease,pancreatitis
+IgG4-Related Disease,kidney lesions
+IgG4-Related Disease,aortitis
+IgG4-Related Disease,retroperitoneal fibrosis
+IgG4-Related Disease,sclerosing cholangitis
+Takayasu’s Arteritis,fatigue
+Takayasu’s Arteritis,fever
+Takayasu’s Arteritis,muscle/joint pain
+Takayasu’s Arteritis,vision problems
+Takayasu’s Arteritis,weak/absent pulses
+Takayasu’s Arteritis,high blood pressure
+Temporal Arteritis,headache
+Temporal Arteritis,scalp tenderness
+Temporal Arteritis,jaw pain
+Temporal Arteritis,vision loss
+Temporal Arteritis,fever
+Temporal Arteritis,fatigue
+Polymyalgia Rheumatica,muscle pain/stiffness
+Polymyalgia Rheumatica,fatigue
+Polymyalgia Rheumatica,fever
+Polymyalgia Rheumatica,weight loss
+Polymyalgia Rheumatica,limited range of motion
+Polymyalgia Rheumatica,malaise
+Dermatomyositis,muscle weakness
+Dermatomyositis,skin rash
+Dermatomyositis,fatigue
+Dermatomyositis,difficulty swallowing
+Dermatomyositis,lung inflammation
+Dermatomyositis,fever
+Polymyositis,muscle weakness
+Polymyositis,difficulty swallowing
+Polymyositis,fatigue
+Polymyositis,shortness of breath
+Polymyositis,joint pain
+Polymyositis,weight loss
+Inclusion Body Myositis,muscle weakness
+Inclusion Body Myositis,difficulty gripping
+Inclusion Body Myositis,falls
+Inclusion Body Myositis,muscle atrophy
+Inclusion Body Myositis,dysphagia
+Inclusion Body Myositis,knee extension weakness
+Chronic Inflammatory Demyelinating Polyneuropathy (CIDP),tingling
+Chronic Inflammatory Demyelinating Polyneuropathy (CIDP),numbness
+Chronic Inflammatory Demyelinating Polyneuropathy (CIDP),muscle weakness
+Chronic Inflammatory Demyelinating Polyneuropathy (CIDP),loss of reflexes
+Chronic Inflammatory Demyelinating Polyneuropathy (CIDP),fatigue
+Chronic Inflammatory Demyelinating Polyneuropathy (CIDP),pain
+Charcot-Marie-Tooth Disease,muscle weakness
+Charcot-Marie-Tooth Disease,foot deformities
+Charcot-Marie-Tooth Disease,numbness
+Charcot-Marie-Tooth Disease,loss of muscle bulk
+Charcot-Marie-Tooth Disease,difficulty walking
+Charcot-Marie-Tooth Disease,hand weakness
+Hereditary Neuropathy,numbness
+Hereditary Neuropathy,tingling
+Hereditary Neuropathy,muscle weakness
+Hereditary Neuropathy,loss of sensation
+Hereditary Neuropathy,foot deformities
+Hereditary Neuropathy,loss of reflexes
+Trigeminal Neuralgia,sudden facial pain
+Trigeminal Neuralgia,electric-shock-like pain
+Trigeminal Neuralgia,pain triggered by chewing/talking
+Trigeminal Neuralgia,numbness
+Trigeminal Neuralgia,tingling
+Trigeminal Neuralgia,muscle spasms
+Postherpetic Neuralgia,burning pain
+Postherpetic Neuralgia,sensitivity to touch
+Postherpetic Neuralgia,itching
+Postherpetic Neuralgia,numbness
+Postherpetic Neuralgia,headaches
+Postherpetic Neuralgia,fatigue
+Complex Regional Pain Syndrome,burning pain
+Complex Regional Pain Syndrome,swelling
+Complex Regional Pain Syndrome,skin changes
+Complex Regional Pain Syndrome,temperature abnormalities
+Complex Regional Pain Syndrome,sweating changes
+Complex Regional Pain Syndrome,joint stiffness
+Ankylosing Spondylitis,chronic back pain
+Ankylosing Spondylitis,stiffness
+Ankylosing Spondylitis,loss of spinal flexibility
+Ankylosing Spondylitis,enthesitis
+Ankylosing Spondylitis,fatigue
+Ankylosing Spondylitis,eye inflammation
+Psoriatic Arthritis,joint pain
+Psoriatic Arthritis,swelling
+Psoriatic Arthritis,scaly skin patches
+Psoriatic Arthritis,nail changes
+Psoriatic Arthritis,fatigue
+Psoriatic Arthritis,eye inflammation
+Reactive Arthritis,joint pain
+Reactive Arthritis,eye inflammation
+Reactive Arthritis,urinary symptoms
+Reactive Arthritis,skin rash
+Reactive Arthritis,mouth sores
+Reactive Arthritis,heel pain
+Juvenile Idiopathic Arthritis,joint pain
+Juvenile Idiopathic Arthritis,swelling
+Juvenile Idiopathic Arthritis,stiffness
+Juvenile Idiopathic Arthritis,fever
+Juvenile Idiopathic Arthritis,rash
+Juvenile Idiopathic Arthritis,eye inflammation
+Systemic Sclerosis (Scleroderma),skin thickening
+Systemic Sclerosis (Scleroderma),Raynaud’s phenomenon
+Systemic Sclerosis (Scleroderma),joint pain
+Systemic Sclerosis (Scleroderma),digestive issues
+Systemic Sclerosis (Scleroderma),shortness of breath
+Systemic Sclerosis (Scleroderma),kidney problems
+Mixed Connective Tissue Disease,Raynaud’s phenomenon
+Mixed Connective Tissue Disease,joint pain
+Mixed Connective Tissue Disease,muscle weakness
+Mixed Connective Tissue Disease,swollen hands
+Mixed Connective Tissue Disease,shortness of breath
+Mixed Connective Tissue Disease,fatigue
+Undifferentiated Connective Tissue Disease,Raynaud’s phenomenon
+Undifferentiated Connective Tissue Disease,joint pain
+Undifferentiated Connective Tissue Disease,dry eyes/mouth
+Undifferentiated Connective Tissue Disease,fatigue
+Undifferentiated Connective Tissue Disease,muscle weakness
+Undifferentiated Connective Tissue Disease,rash
+Antiphospholipid Syndrome,blood clots
+Antiphospholipid Syndrome,recurrent miscarriages
+Antiphospholipid Syndrome,stroke
+Antiphospholipid Syndrome,livedo reticularis
+Antiphospholipid Syndrome,headaches
+Antiphospholipid Syndrome,heart valve disease
+Raynaud’s Phenomenon,cold fingers/toes
+Raynaud’s Phenomenon,color changes in skin
+Raynaud’s Phenomenon,numbness
+Raynaud’s Phenomenon,tingling
+Raynaud’s Phenomenon,pain
+Raynaud’s Phenomenon,ulcers in severe cases
+Eosinophilic Fasciitis,skin hardening
+Eosinophilic Fasciitis,painful swelling
+Eosinophilic Fasciitis,joint stiffness
+Eosinophilic Fasciitis,muscle weakness
+Eosinophilic Fasciitis,fatigue
+Eosinophilic Fasciitis,blood eosinophilia
+Polymorphous Light Eruption,itchy rash
+Polymorphous Light Eruption,red bumps
+Polymorphous Light Eruption,blisters
+Polymorphous Light Eruption,burning sensation
+Polymorphous Light Eruption,sun-exposed areas
+Polymorphous Light Eruption,fatigue
+Lichen Planus,"purple, itchy bumps"
+Lichen Planus,white lacy patches in mouth
+Lichen Planus,nail changes
+Lichen Planus,scalp involvement
+Lichen Planus,genital lesions
+Lichen Planus,hair loss
+Pemphigus Vulgaris,painful blisters
+Pemphigus Vulgaris,mouth sores
+Pemphigus Vulgaris,skin erosions
+Pemphigus Vulgaris,itching
+Pemphigus Vulgaris,burning
+Pemphigus Vulgaris,secondary infections
+Bullous Pemphigoid,large blisters
+Bullous Pemphigoid,itching
+Bullous Pemphigoid,red skin
+Bullous Pemphigoid,eczema-like rash
+Bullous Pemphigoid,mouth sores
+Bullous Pemphigoid,fatigue
+Dermatitis Herpetiformis,intensely itchy rash
+Dermatitis Herpetiformis,blisters
+Dermatitis Herpetiformis,burning sensation
+Dermatitis Herpetiformis,symmetrical distribution
+Dermatitis Herpetiformis,gastrointestinal symptoms
+Dermatitis Herpetiformis,fatigue
+Erythema Multiforme,target-shaped lesions
+Erythema Multiforme,fever
+Erythema Multiforme,joint pain
+Erythema Multiforme,itching
+Erythema Multiforme,mouth sores
+Erythema Multiforme,burning eyes
+Stevens-Johnson Syndrome,fever
+Stevens-Johnson Syndrome,skin pain
+Stevens-Johnson Syndrome,red/purple rash
+Stevens-Johnson Syndrome,blisters
+Stevens-Johnson Syndrome,mouth sores
+Stevens-Johnson Syndrome,eye inflammation
+Toxic Epidermal Necrolysis,widespread skin peeling
+Toxic Epidermal Necrolysis,pain
+Toxic Epidermal Necrolysis,blisters
+Toxic Epidermal Necrolysis,mucous membrane involvement
+Toxic Epidermal Necrolysis,fever
+Toxic Epidermal Necrolysis,sepsis
+Acne Vulgaris,blackheads
+Acne Vulgaris,whiteheads
+Acne Vulgaris,pimples
+Acne Vulgaris,cystic lesions
+Acne Vulgaris,scarring
+Acne Vulgaris,oiliness
+Rosacea,facial redness
+Rosacea,visible blood vessels
+Rosacea,bumps/pimples
+Rosacea,eye irritation
+Rosacea,thickened skin
+Rosacea,burning/stinging
+Eczema (Atopic Dermatitis),itchy skin
+Eczema (Atopic Dermatitis),redness
+Eczema (Atopic Dermatitis),dryness
+Eczema (Atopic Dermatitis),cracking
+Eczema (Atopic Dermatitis),oozing
+Eczema (Atopic Dermatitis),lichenification
+Vitiligo,loss of skin color
+Vitiligo,patches of depigmentation
+Vitiligo,premature graying of hair
+Vitiligo,symmetrical distribution
+Vitiligo,sun sensitivity
+Vitiligo,social anxiety
+Alopecia Areata,sudden hair loss
+Alopecia Areata,round bald patches
+Alopecia Areata,nails pitting
+Alopecia Areata,regrowth of white hair
+Alopecia Areata,complete baldness (in severe cases)
+Hidradenitis Suppurativa,painful lumps under skin
+Hidradenitis Suppurativa,abscesses
+Hidradenitis Suppurativa,scarring
+Hidradenitis Suppurativa,tunnels under skin
+Hidradenitis Suppurativa,foul-smelling discharge
+Hidradenitis Suppurativa,fatigue
+Ichthyosis,"dry, scaly skin"
+Ichthyosis,thickened skin
+Ichthyosis,cracking
+Ichthyosis,itching
+Ichthyosis,redness
+Ichthyosis,painful fissures
+Keratosis Pilaris,"rough, bumpy skin"
+Keratosis Pilaris,chicken-skin appearance
+Keratosis Pilaris,dryness
+Keratosis Pilaris,itching
+Keratosis Pilaris,redness
+Keratosis Pilaris,worsening in winter
+Molluscum Contagiosum,"small, raised bumps"
+Molluscum Contagiosum,pearly appearance
+Molluscum Contagiosum,itchiness
+Molluscum Contagiosum,redness
+Molluscum Contagiosum,spread by scratching
+Molluscum Contagiosum,self-resolving
+Warts,"rough, raised bumps"
+Warts,black pinpoints
+Warts,pain
+Warts,spread by contact
+Warts,common on hands/feet
+Warts,persistence
+Herpes Simplex,cold sores
+Herpes Simplex,genital sores
+Herpes Simplex,pain
+Herpes Simplex,itching
+Herpes Simplex,tingling before outbreaks
+Herpes Simplex,recurrent episodes
+Herpes Zoster (Shingles),painful rash
+Herpes Zoster (Shingles),blisters
+Herpes Zoster (Shingles),itching
+Herpes Zoster (Shingles),burning
+Herpes Zoster (Shingles),fever
+Herpes Zoster (Shingles),headache
+Folliculitis,small red bumps
+Folliculitis,pus-filled blisters
+Folliculitis,itchiness
+Folliculitis,pain
+Folliculitis,tenderness
+Folliculitis,spread by shaving
+Carbuncle,cluster of boils
+Carbuncle,redness
+Carbuncle,swelling
+Carbuncle,pain
+Carbuncle,pus discharge
+Carbuncle,fever
+Boil,painful red bump
+Boil,pus-filled center
+Boil,tenderness
+Boil,swelling
+Boil,warmth
+Boil,fever
+Abscess,painful swelling
+Abscess,pus collection
+Abscess,redness
+Abscess,warmth
+Abscess,fever
+Abscess,fatigue
+Necrotizing Fasciitis,severe pain
+Necrotizing Fasciitis,redness/swelling
+Necrotizing Fasciitis,fever
+Necrotizing Fasciitis,skin discoloration
+Necrotizing Fasciitis,blisters
+Necrotizing Fasciitis,shock
+Gas Gangrene,severe pain
+Gas Gangrene,swelling
+Gas Gangrene,crepitus (gas under skin)
+Gas Gangrene,fever
+Gas Gangrene,tachycardia
+Gas Gangrene,skin necrosis
+Tinea Infections (Ringworm),circular rash
+Tinea Infections (Ringworm),itchiness
+Tinea Infections (Ringworm),redness
+Tinea Infections (Ringworm),scaling
+Tinea Infections (Ringworm),hair loss (if scalp)
+Tinea Infections (Ringworm),spread by contact
+Sporotrichosis,skin nodules
+Sporotrichosis,ulcers
+Sporotrichosis,lymphatic spread
+Sporotrichosis,pain
+Sporotrichosis,redness
+Sporotrichosis,fever
+Paracoccidioidomycosis,mouth ulcers
+Paracoccidioidomycosis,weight loss
+Paracoccidioidomycosis,cough
+Paracoccidioidomycosis,swollen lymph nodes
+Paracoccidioidomycosis,skin lesions
+Paracoccidioidomycosis,fever
+Zygomycosis,sinus pain
+Zygomycosis,fever
+Zygomycosis,headache
+Zygomycosis,facial swelling
+Zygomycosis,necrosis
+Zygomycosis,vision loss
+Pneumocystis Pneumonia,dry cough
+Pneumocystis Pneumonia,fever
+Pneumocystis Pneumonia,shortness of breath
+Pneumocystis Pneumonia,fatigue
+Pneumocystis Pneumonia,weight loss
+Pneumocystis Pneumonia,night sweats
+Leishmaniasis,skin ulcers
+Leishmaniasis,fever
+Leishmaniasis,weight loss
+Leishmaniasis,anemia
+Leishmaniasis,enlarged spleen/liver
+Leishmaniasis,night sweats
+Trypanosomiasis (Sleeping Sickness),fever
+Trypanosomiasis (Sleeping Sickness),headache
+Trypanosomiasis (Sleeping Sickness),joint pain
+Trypanosomiasis (Sleeping Sickness),itching
+Trypanosomiasis (Sleeping Sickness),confusion
+Trypanosomiasis (Sleeping Sickness),sleep disturbances
+Chagas Disease,swelling at infection site
+Chagas Disease,fever
+Chagas Disease,fatigue
+Chagas Disease,body aches
+Chagas Disease,rash
+Chagas Disease,heart complications
+Loiasis,eye worm
+Loiasis,itching
+Loiasis,swelling
+Loiasis,joint pain
+Loiasis,fatigue
+Loiasis,calabar swellings
+Dracunculiasis,painful blister
+Dracunculiasis,emergence of worm
+Dracunculiasis,fever
+Dracunculiasis,nausea
+Dracunculiasis,allergic reactions
+Dracunculiasis,secondary infections
+Trichuriasis,abdominal pain
+Trichuriasis,diarrhea (bloody)
+Trichuriasis,rectal prolapse
+Trichuriasis,anemia
+Trichuriasis,weight loss
+Trichuriasis,fatigue
+Ascariasis,abdominal pain
+Ascariasis,nausea
+Ascariasis,diarrhea
+Ascariasis,visible worms in stool
+Ascariasis,weight loss
+Ascariasis,intestinal blockage
+Enterobiasis (Pinworm),anal itching
+Enterobiasis (Pinworm),restlessness
+Enterobiasis (Pinworm),vaginal itching
+Enterobiasis (Pinworm),abdominal pain
+Enterobiasis (Pinworm),nausea
+Enterobiasis (Pinworm),insomnia
+Necatoriasis (Hookworm),itchy rash
+Necatoriasis (Hookworm),abdominal pain
+Necatoriasis (Hookworm),diarrhea
+Necatoriasis (Hookworm),weight loss
+Necatoriasis (Hookworm),fatigue
+Necatoriasis (Hookworm),anemia
+Strongyloidiasis,abdominal pain
+Strongyloidiasis,diarrhea
+Strongyloidiasis,rash
+Strongyloidiasis,cough
+Strongyloidiasis,weight loss
+Strongyloidiasis,larva currens
+Trichinellosis,muscle pain
+Trichinellosis,fever
+Trichinellosis,swelling around eyes
+Trichinellosis,weakness
+Trichinellosis,headache
+Trichinellosis,sensitivity to light
+Fascioliasis,abdominal pain
+Fascioliasis,fever
+Fascioliasis,nausea
+Fascioliasis,jaundice
+Fascioliasis,weight loss
+Fascioliasis,hepatomegaly
+Clonorchiasis,abdominal pain
+Clonorchiasis,diarrhea
+Clonorchiasis,jaundice
+Clonorchiasis,cholangitis
+Clonorchiasis,gallstones
+Clonorchiasis,liver cancer
+Paragonimiasis,cough
+Paragonimiasis,chest pain
+Paragonimiasis,hemoptysis
+Paragonimiasis,fever
+Paragonimiasis,diarrhea
+Paragonimiasis,abdominal pain
+Echinostomiasis,abdominal pain
+Echinostomiasis,diarrhea
+Echinostomiasis,weight loss
+Echinostomiasis,anemia
+Echinostomiasis,fatigue
+Echinostomiasis,malnutrition
+Heterophyiasis,abdominal pain
+Heterophyiasis,diarrhea
+Heterophyiasis,weight loss
+Heterophyiasis,fatigue
+Heterophyiasis,malabsorption
+Heterophyiasis,anemia
+Metagonimiasis,abdominal pain
+Metagonimiasis,diarrhea
+Metagonimiasis,weight loss
+Metagonimiasis,fatigue
+Metagonimiasis,malabsorption
+Metagonimiasis,anemia
+Diphyllobothriasis,abdominal pain
+Diphyllobothriasis,diarrhea
+Diphyllobothriasis,weight loss
+Diphyllobothriasis,vitamin B12 deficiency
+Diphyllobothriasis,fatigue
+Diphyllobothriasis,tapeworm segments in stool
+Hymenolepiasis,abdominal pain
+Hymenolepiasis,diarrhea
+Hymenolepiasis,weight loss
+Hymenolepiasis,fatigue
+Hymenolepiasis,pruritus ani
+Hymenolepiasis,nausea
+Taeniasis,abdominal pain
+Taeniasis,weight loss
+Taeniasis,nausea
+Taeniasis,diarrhea
+Taeniasis,hunger
+Taeniasis,tapeworm segments in stool
+Cysticercosis,seizures
+Cysticercosis,headaches
+Cysticercosis,vision changes
+Cysticercosis,confusion
+Cysticercosis,muscle pain
+Cysticercosis,nodules under skin
+Hydatid Disease,abdominal pain
+Hydatid Disease,cough
+Hydatid Disease,chest pain
+Hydatid Disease,jaundice
+Hydatid Disease,anaphylaxis
+Hydatid Disease,organ rupture
+Sparganosis,migratory swellings
+Sparganosis,pain
+Sparganosis,itching
+Sparganosis,inflammation
+Sparganosis,seizures (if cerebral)
+Sparganosis,vision loss (if ocular)
+Coenurosis,neurological symptoms
+Coenurosis,seizures
+Coenurosis,headaches
+Coenurosis,hydrocephalus
+Coenurosis,vision loss
+Coenurosis,intracranial pressure
+Gnathostomiasis,migratory swelling
+Gnathostomiasis,pain
+Gnathostomiasis,itching
+Gnathostomiasis,fever
+Gnathostomiasis,gastrointestinal symptoms
+Gnathostomiasis,neurological involvement
+Anisakiasis,severe abdominal pain
+Anisakiasis,nausea
+Anisakiasis,vomiting
+Anisakiasis,allergic reactions
+Anisakiasis,intestinal obstruction
+Anisakiasis,peritonitis
+Capillariasis,abdominal pain
+Capillariasis,diarrhea
+Capillariasis,weight loss
+Capillariasis,malabsorption
+Capillariasis,edema
+Capillariasis,hypoalbuminemia
+Angiostrongyliasis,headache
+Angiostrongyliasis,stiff neck
+Angiostrongyliasis,nausea
+Angiostrongyliasis,vomiting
+Angiostrongyliasis,paresthesia
+Angiostrongyliasis,facial paralysis
+Dioctophymiasis,abdominal pain
+Dioctophymiasis,hematuria
+Dioctophymiasis,renal colic
+Dioctophymiasis,kidney damage
+Dioctophymiasis,nausea
+Dioctophymiasis,vomiting
+Gongylonemiasis,oral discomfort
+Gongylonemiasis,sensation of crawling in mouth
+Gongylonemiasis,throat irritation
+Gongylonemiasis,cough
+Gongylonemiasis,dysphagia
+Gongylonemiasis,anxiety
+Thelaziasis,eye irritation
+Thelaziasis,excessive tearing
+Thelaziasis,photophobia
+Thelaziasis,conjunctivitis
+Thelaziasis,corneal ulcers
+Thelaziasis,vision loss
+Lagochilascariasis,skin lesions
+Lagochilascariasis,abscesses
+Lagochilascariasis,sinus tracts
+Lagochilascariasis,fever
+Lagochilascariasis,malaise
+Lagochilascariasis,lymphadenopathy
+Toxocariasis,fever
+Toxocariasis,abdominal pain
+Toxocariasis,cough
+Toxocariasis,vision loss
+Toxocariasis,retinal lesions
+Toxocariasis,seizures
+Baylisascariasis,neurological symptoms
+Baylisascariasis,nausea
+Baylisascariasis,loss of coordination
+Baylisascariasis,blindness
+Baylisascariasis,coma
+Baylisascariasis,death
+Dirofilariasis,chest pain
+Dirofilariasis,cough
+Dirofilariasis,fever
+Dirofilariasis,lung nodules
+Dirofilariasis,eye lesions
+Dirofilariasis,subcutaneous nodules
+Acanthocheilonemiasis,subcutaneous nodules
+Acanthocheilonemiasis,pruritus
+Acanthocheilonemiasis,lymphadenopathy
+Acanthocheilonemiasis,fever
+Acanthocheilonemiasis,headache
+Acanthocheilonemiasis,joint pain
+Mansonelliasis,pruritus
+Mansonelliasis,skin rash
+Mansonelliasis,lymphadenopathy
+Mansonelliasis,joint pain
+Mansonelliasis,fever
+Mansonelliasis,headache
+Loa loa,eye worm
+Loa loa,calabar swellings
+Loa loa,itching
+Loa loa,joint pain
+Loa loa,fatigue
+Loa loa,fever
+Onchocerca volvulus,itchy skin
+Onchocerca volvulus,skin nodules
+Onchocerca volvulus,vision changes
+Onchocerca volvulus,blindness
+Onchocerca volvulus,depigmentation
+Onchocerca volvulus,lymphadenopathy
+Wuchereria bancrofti,lymphedema
+Wuchereria bancrofti,elephantiasis
+Wuchereria bancrofti,fever
+Wuchereria bancrofti,chills
+Wuchereria bancrofti,hydrocele
+Wuchereria bancrofti,skin thickening
+Brugia malayi,lymphedema
+Brugia malayi,elephantiasis
+Brugia malayi,fever
+Brugia malayi,chills
+Brugia malayi,lymphadenopathy
+Brugia malayi,skin ulcers
+Dracunculus medinensis,painful blister
+Dracunculus medinensis,emerging worm
+Dracunculus medinensis,fever
+Dracunculus medinensis,nausea
+Dracunculus medinensis,secondary infections
+Dracunculus medinensis,allergic reactions
+Trichinella spiralis,muscle pain
+Trichinella spiralis,fever
+Trichinella spiralis,periorbital edema
+Trichinella spiralis,weakness
+Trichinella spiralis,headache
+Trichinella spiralis,sensitivity to light
+Fasciola hepatica,abdominal pain
+Fasciola hepatica,fever
+Fasciola hepatica,jaundice
+Fasciola hepatica,hepatomegaly
+Fasciola hepatica,weight loss
+Fasciola hepatica,eosinophilia
+Paragonimus westermani,cough
+Paragonimus westermani,hemoptysis
+Paragonimus westermani,chest pain
+Paragonimus westermani,fever
+Paragonimus westermani,diarrhea
+Paragonimus westermani,abdominal pain
+Clonorchis sinensis,abdominal pain
+Clonorchis sinensis,diarrhea
+Clonorchis sinensis,jaundice
+Clonorchis sinensis,cholangitis
+Clonorchis sinensis,gallstones
+Clonorchis sinensis,liver cancer
+Opisthorchis viverrini,abdominal pain
+Opisthorchis viverrini,diarrhea
+Opisthorchis viverrini,jaundice
+Opisthorchis viverrini,cholangitis
+Opisthorchis viverrini,gallstones
+Opisthorchis viverrini,liver cancer
+Schistosoma haematobium,hematuria
+Schistosoma haematobium,dysuria
+Schistosoma haematobium,bladder cancer
+Schistosoma haematobium,hydronephrosis
+Schistosoma haematobium,kidney damage
+Schistosoma haematobium,anemia
+Schistosoma mansoni,abdominal pain
+Schistosoma mansoni,diarrhea (bloody)
+Schistosoma mansoni,hepatosplenomegaly
+Schistosoma mansoni,portal hypertension
+Schistosoma mansoni,ascites
+Schistosoma mansoni,variceal bleeding
+Schistosoma japonicum,abdominal pain
+Schistosoma japonicum,diarrhea
+Schistosoma japonicum,hepatosplenomegaly
+Schistosoma japonicum,portal hypertension
+Schistosoma japonicum,ascites
+Schistosoma japonicum,seizures (cerebral)
+Echinococcus granulosus,abdominal pain
+Echinococcus granulosus,cough
+Echinococcus granulosus,jaundice
+Echinococcus granulosus,anaphylaxis
+Echinococcus granulosus,organ rupture
+Echinococcus granulosus,hydatid cysts
+Echinococcus multilocularis,abdominal pain
+Echinococcus multilocularis,jaundice
+Echinococcus multilocularis,liver failure
+Echinococcus multilocularis,metastatic lesions
+Echinococcus multilocularis,weight loss
+Echinococcus multilocularis,death
+Taenia solium,abdominal pain
+Taenia solium,weight loss
+Taenia solium,tapeworm segments in stool
+Taenia solium,cysticercosis
+Taenia solium,seizures
+Taenia solium,neurological symptoms
+Taenia saginata,abdominal pain
+Taenia saginata,weight loss
+Taenia saginata,tapeworm segments in stool
+Taenia saginata,hunger
+Taenia saginata,nausea
+Taenia saginata,diarrhea
+Hymenolepis nana,abdominal pain
+Hymenolepis nana,diarrhea
+Hymenolepis nana,weight loss
+Hymenolepis nana,pruritus ani
+Hymenolepis nana,nausea
+Hymenolepis nana,fatigue
+Dipylidium caninum,abdominal pain
+Dipylidium caninum,diarrhea
+Dipylidium caninum,pruritus ani
+Dipylidium caninum,visible proglottids in stool
+Dipylidium caninum,weight loss
+Dipylidium caninum,fatigue
+Spirometra spp.,migratory swellings
+Spirometra spp.,pain
+Spirometra spp.,itching
+Spirometra spp.,seizures (cerebral)
+Spirometra spp.,vision loss (ocular)
+Spirometra spp.,eosinophilia
+Nanophyetus salmincola,abdominal pain
+Nanophyetus salmincola,diarrhea
+Nanophyetus salmincola,weight loss
+Nanophyetus salmincola,nausea
+Nanophyetus salmincola,vomiting
+Nanophyetus salmincola,eosinophilia
+Metagonimus yokogawai,abdominal pain
+Metagonimus yokogawai,diarrhea
+Metagonimus yokogawai,weight loss
+Metagonimus yokogawai,malabsorption
+Metagonimus yokogawai,fatigue
+Metagonimus yokogawai,anemia
+Heterophyes heterophyes,abdominal pain
+Heterophyes heterophyes,diarrhea
+Heterophyes heterophyes,weight loss
+Heterophyes heterophyes,malabsorption
+Heterophyes heterophyes,fatigue
+Heterophyes heterophyes,anemia
+Gastrodiscoides hominis,abdominal pain
+Gastrodiscoides hominis,diarrhea
+Gastrodiscoides hominis,mucoid stools
+Gastrodiscoides hominis,weight loss
+Gastrodiscoides hominis,fatigue
+Gastrodiscoides hominis,anemia
+Fasciolopsis buski,abdominal pain
+Fasciolopsis buski,diarrhea
+Fasciolopsis buski,intestinal obstruction
+Fasciolopsis buski,edema
+Fasciolopsis buski,ascites
+Fasciolopsis buski,malnutrition
+Echinostoma spp.,abdominal pain
+Echinostoma spp.,diarrhea
+Echinostoma spp.,weight loss
+Echinostoma spp.,anemia
+Echinostoma spp.,fatigue
+Echinostoma spp.,malnutrition
+Paragonimus kellicotti,cough
+Paragonimus kellicotti,chest pain
+Paragonimus kellicotti,hemoptysis
+Paragonimus kellicotti,fever
+Paragonimus kellicotti,diarrhea
+Paragonimus kellicotti,abdominal pain
+Alaria spp.,abdominal pain
+Alaria spp.,cough
+Alaria spp.,skin lesions
+Alaria spp.,vision loss
+Alaria spp.,neurological symptoms
+Alaria spp.,death
+Gnathostoma spinigerum,migratory swelling
+Gnathostoma spinigerum,pain
+Gnathostoma spinigerum,itching
+Gnathostoma spinigerum,fever
+Gnathostoma spinigerum,eosinophilia
+Gnathostoma spinigerum,neurological symptoms
+Ancylostoma duodenale,iron deficiency anemia
+Ancylostoma duodenale,abdominal pain
+Ancylostoma duodenale,diarrhea
+Ancylostoma duodenale,fatigue
+Ancylostoma duodenale,pica
+Ancylostoma duodenale,hypoproteinemia
+Necator americanus,iron deficiency anemia
+Necator americanus,abdominal pain
+Necator americanus,diarrhea
+Necator americanus,fatigue
+Necator americanus,pica
+Necator americanus,hypoproteinemia
+Strongyloides stercoralis,abdominal pain
+Strongyloides stercoralis,diarrhea
+Strongyloides stercoralis,larva currens
+Strongyloides stercoralis,cough
+Strongyloides stercoralis,weight loss
+Strongyloides stercoralis,hyperinfection syndrome
+Enterobius vermicularis,anal itching
+Enterobius vermicularis,restlessness
+Enterobius vermicularis,vaginal itching
+Enterobius vermicularis,abdominal pain
+Enterobius vermicularis,nausea
+Enterobius vermicularis,insomnia
+Trichuris trichiura,abdominal pain
+Trichuris trichiura,diarrhea (bloody)
+Trichuris trichiura,rectal prolapse
+Trichuris trichiura,anemia
+Trichuris trichiura,weight loss
+Trichuris trichiura,growth retardation
+Ascaris lumbricoides,abdominal pain
+Ascaris lumbricoides,nausea
+Ascaris lumbricoides,diarrhea
+Ascaris lumbricoides,intestinal obstruction
+Ascaris lumbricoides,visible worms in stool
+Ascaris lumbricoides,malnutrition
+Toxocara canis,fever
+Toxocara canis,abdominal pain
+Toxocara canis,cough
+Toxocara canis,vision loss
+Toxocara canis,retinal granulomas
+Toxocara canis,seizures
+Anisakis simplex,severe abdominal pain
+Anisakis simplex,nausea
+Anisakis simplex,vomiting
+Anisakis simplex,allergic reactions
+Anisakis simplex,intestinal obstruction
+Anisakis simplex,perforation
+Dioctophyme renale,flank pain
+Dioctophyme renale,hematuria
+Dioctophyme renale,renal failure
+Dioctophyme renale,hydronephrosis
+Dioctophyme renale,nausea
+Dioctophyme renale,vomiting
+Capillaria philippinensis,abdominal pain
+Capillaria philippinensis,diarrhea
+Capillaria philippinensis,weight loss
+Capillaria philippinensis,malabsorption
+Capillaria philippinensis,edema
+Capillaria philippinensis,hypoalbuminemia
+Angiostrongylus cantonensis,headache
+Angiostrongylus cantonensis,neck stiffness
+Angiostrongylus cantonensis,nausea
+Angiostrongylus cantonensis,vomiting
+Angiostrongylus cantonensis,paresthesia
+Angiostrongylus cantonensis,facial paralysis
+Angiostrongylus costaricensis,abdominal pain
+Angiostrongylus costaricensis,fever
+Angiostrongylus costaricensis,nausea
+Angiostrongylus costaricensis,vomiting
+Angiostrongylus costaricensis,eosinophilia
+Angiostrongylus costaricensis,intestinal perforation
+Trichinella pseudospiralis,muscle pain
+Trichinella pseudospiralis,fever
+Trichinella pseudospiralis,periorbital edema
+Trichinella pseudospiralis,weakness
+Trichinella pseudospiralis,headache
+Trichinella pseudospiralis,sensitivity to light
+Trichinella nativa,muscle pain
+Trichinella nativa,fever
+Trichinella nativa,periorbital edema
+Trichinella nativa,weakness
+Trichinella nativa,headache
+Trichinella nativa,sensitivity to light
+Trichinella britovi,muscle pain
+Trichinella britovi,fever
+Trichinella britovi,periorbital edema
+Trichinella britovi,weakness
+Trichinella britovi,headache
+Trichinella britovi,sensitivity to light
+Trichinella murelli,muscle pain
+Trichinella murelli,fever
+Trichinella murelli,periorbital edema
+Trichinella murelli,weakness
+Trichinella murelli,headache
+Trichinella murelli,sensitivity to light
+Trichinella nelsoni,muscle pain
+Trichinella nelsoni,fever
+Trichinella nelsoni,periorbital edema
+Trichinella nelsoni,weakness
+Trichinella nelsoni,headache
+Trichinella nelsoni,sensitivity to light
+Trichinella papuae,muscle pain
+Trichinella papuae,fever
+Trichinella papuae,periorbital edema
+Trichinella papuae,weakness
+Trichinella papuae,headache
+Trichinella papuae,sensitivity to light
+Trichinella zimbabwensis,muscle pain
+Trichinella zimbabwensis,fever
+Trichinella zimbabwensis,periorbital edema
+Trichinella zimbabwensis,weakness
+Trichinella zimbabwensis,headache
+Trichinella zimbabwensis,sensitivity to light
+Trichinella T6,muscle pain
+Trichinella T6,fever
+Trichinella T6,periorbital edema
+Trichinella T6,weakness
+Trichinella T6,headache
+Trichinella T6,sensitivity to light
+Trichinella T8,muscle pain
+Trichinella T8,fever
+Trichinella T8,periorbital edema
+Trichinella T8,weakness
+Trichinella T8,headache
+Trichinella T8,sensitivity to light
+Trichinella T9,muscle pain
+Trichinella T9,fever
+Trichinella T9,periorbital edema
+Trichinella T9,weakness
+Trichinella T9,headache
+Trichinella T9,sensitivity to light
+Trichinella T12,muscle pain
+Trichinella T12,fever
+Trichinella T12,periorbital edema
+Trichinella T12,weakness
+Trichinella T12,headache
+Trichinella T12,sensitivity to light
