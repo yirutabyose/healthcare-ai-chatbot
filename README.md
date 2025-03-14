@@ -85,7 +85,7 @@ Millions of people delay seeking medical attention due to limited access to heal
 **Role:** AI Developer  
 **Contributions:** Model training, chatbot development, system integration  
 📧 **Contact:** yirutabyose@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/yoramu](https://linkedin.com/in/irutabyoseyoramu)  
+🔗 **LinkedIn:** [linkedin.com/in/irutabyoseyoramu](https://linkedin.com/in/irutabyoseyoramu)  
 
 ---
 
